@@ -1,0 +1,1088 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font: 400 1em/1.38 'Montserrat Light';
+  color: rgb(0, 0, 0);
+  animation: 2s ease-out 0s 1 appearpage;
+}
+
+@keyframes appearpage {
+		0%    {opacity: 0.0;}
+    50%   {opacity: 0.0;}
+		100%  {opacity: 1.0;}
+		}
+@-webkit-keyframes appearpage {
+  0%    {opacity: 0.0;}
+  50%   {opacity: 0.0;}
+  100%  {opacity: 1.0;}
+}
+
+.burger {
+  visibility: hidden;
+  position: fixed;
+  top: 35px;
+  right: 5%;
+  z-index: 25;
+  width: 31px;
+  height: 24px;
+  opacity: 0.6;
+  overflow: visible;
+  cursor: pointer;
+}
+
+.container .element {
+  width: 52px;
+  height: 9px;
+  background-color: rgb(53, 106, 219);
+}
+
+.container .text {
+  float: left;
+  clear: both;
+  margin: 43px 0 0 0.44799%;
+  font-family: 'Montserrat Regular';
+  font-weight: normal;
+  line-height: 1.4;
+  color: rgb(0, 0, 0);
+}
+
+.image {
+  display: block;
+  float: left;
+  clear: both;
+  width: 89.7321428571%;
+  height: auto;
+  overflow: hidden;
+}
+
+.langtext {
+  position: absolute;
+  right: 0;
+  font-size: 1em;
+  font-weight: normal;
+  color: rgb(0, 0, 0);
+}
+
+.langtext:hover {
+  color: rgb(53, 106, 219);
+}
+
+.lineofburg {
+  float: right;
+  width: 100%;
+  height: 4px;
+  background-color: rgb(53, 106, 219);
+}
+
+.mainprojectcontainer {
+  position: relative;
+  z-index: 20;
+  width: 74.6666666666%;
+  max-width: 1000px;
+  margin: 118px auto 0;
+  animation: 0.5s ease-out 1s 1 slideInFrombottom;
+}
+
+@keyframes slideInFrombottom {
+		0%    {transform:translateY(+100px); opacity: 0.0;}
+		100%  {transform:translateY(0); opacity: 1.0;}
+		}
+@-webkit-keyframes slideInFrombottom {
+  0%    {transform:translateY(+100px); opacity: 0.0;}
+  100%  {transform:translateY(0); opacity: 1.0;}
+}
+
+.mainprojectcontainer .container {
+  position: relative;
+  float: left;
+  width: 715px;
+  height: 266px;
+  margin: 50px 0 0 20.19915%;
+}
+
+.mainprojectcontainer .element {
+  float: left;
+}
+
+.menutext {
+  float: left;
+  font-size: 1em;
+  font-weight: normal;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+}
+
+.menutext:hover {
+  color: rgb(53, 106, 219);
+  opacity: 1;
+}
+
+.text {
+  font-size: 1em;
+}
+
+.text-3 p {
+  margin-bottom: 1em;
+}
+
+.titletext {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 16;
+  width: 93.8286713286%;
+  min-height: 100px;
+  font: normal 3em/1.3 'Montserrat ExtraBold';
+  color: #356adb;
+}
+
+.container-1 {
+  position: fixed;
+  top: 35px;
+  left: 5%;
+  z-index: 33;
+  width: 7.9166666666%;
+  height: 367px;
+}
+
+.container-3 {
+  visibility: hidden;
+  position: fixed;
+  top: 178px;
+  left: 92.5%;
+  z-index: 28;
+  width: 2.5%;
+  height: 104px;
+}
+
+.element-1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 32;
+}
+
+.element-2 {
+  visibility: hidden;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 21;
+  width: 100%;
+  height: 117px;
+  background-color: rgb(255, 255, 255);
+}
+
+.element-3 {
+  margin: 165px 0 0 0.41084%;
+}
+
+.element-4 {
+  position: relative;
+  clear: both;
+  z-index: 4;
+  width: 48.7510676497%;
+  height: 302px;
+  margin: 100px 0 0 10.28181%;
+  background: url('../images/12563.jpg') rgb(222, 222, 222);
+  background-size: auto 120%;
+  background-position: center center;
+}
+
+.element-5 {
+  position: relative;
+  float: left;
+  z-index: 0;
+  width: 100%;
+  height: 55px;
+  background-color: #f0f0f0;
+}
+
+.image-1 {
+  margin: 42px 0 0 10.22252%;
+}
+
+.image-2 {
+  margin: 40px 0 0 10.22252%;
+}
+
+.image-3 {
+  margin: 80px 0 0 10.22252%;
+}
+
+.image-4,
+.image-5 {
+  margin: 40px 0 0 10.26786%;
+}
+
+.langtext-1 {
+  top: 83px;
+  z-index: 27;
+}
+
+.langtext-2 {
+  top: 0;
+  z-index: 26;
+  font-family: 'Montserrat SemiBold';
+}
+
+.lineofburg-2,
+.lineofburg-3 {
+  clear: both;
+  margin-top: 6px;
+}
+
+.menutext-1 {
+  margin: 148px 0 0 -1px;
+  font-family: 'Montserrat SemiBold';
+}
+
+.menutext-2,
+.menutext-3 {
+  clear: both;
+  margin-top: 66px;
+}
+
+.text-2 {
+  position: relative;
+  float: left;
+  z-index: 6;
+  margin: 97px 0 0 2.4013%;
+  font-family: 'Montserrat SemiBold';
+  font-weight: normal;
+  color: #356adb;
+}
+
+.text-3 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 5;
+  width: 38.5539228503%;
+  min-height: 307px;
+  margin: -269px 0 0 61.44671%;
+  font-family: Montserrat;
+  line-height: 1.4;
+  color: rgb(0, 0, 0);
+}
+
+.text-4 {
+  float: left;
+  clear: both;
+  width: 69.2778329759%;
+  min-height: 83px;
+  margin: 40px 0 0 10.22252%;
+  font-family: Montserrat;
+  color: rgb(0, 0, 0);
+}
+
+.text-5 {
+  float: left;
+  clear: both;
+  width: 69.2778329759%;
+  min-height: 48px;
+  margin: 40px 0 0 10.22252%;
+  font-family: Montserrat;
+  color: rgb(0, 0, 0);
+}
+
+.text-6 {
+  float: left;
+  clear: both;
+  width: 69.2778329759%;
+  min-height: 53px;
+  margin: 80px 0 0 10.22252%;
+  color: rgb(0, 0, 0);
+}
+
+.text-7 {
+  float: left;
+  clear: both;
+  width: 69.2778329759%;
+  min-height: 36px;
+  margin: 80px 0 0 10.28181%;
+  color: rgb(0, 0, 0);
+}
+
+.text-8 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 1;
+  margin: -37px 0 0 5%;
+  color: rgb(0, 0, 0);
+}
+
+.text-9 {
+  position: relative;
+  float: right;
+  z-index: 2;
+  margin: -37px 5.03125% 0 0;
+  color: rgb(0, 0, 0);
+}
+
+._container-4 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 3;
+  width: 100%;
+  height: 55px;
+  margin-top: 140px;
+}
+
+@media(max-width: 1024px) {
+  .burger {
+    visibility: visible;
+    top: 25px;
+    left: 92.0455932617%;
+    right: auto;
+    height: 30px;
+    opacity: 1;
+  }
+
+  .burger:hover {
+    opacity: 0.6;
+  }
+
+  .burger .lineofburg {
+    float: left;
+    width: 97.974537037%;
+  }
+
+  .container .element {
+    width: 36px;
+    height: 7px;
+  }
+
+  .container .langtext {
+    right: auto;
+  }
+
+  .container .menutext {
+    visibility: hidden;
+  }
+
+  .container .text {
+    margin-top: 28px;
+    margin-left: 0.136%;
+  }
+
+  .container .titletext {
+    width: 103.3333333333%;
+    font-size: 1.875em;
+  }
+
+  .mainprojectcontainer {
+    position: relative;
+    z-index: 20;
+    width: 71.77734375%;
+    margin-top: 70px;
+  }
+
+  .mainprojectcontainer .container {
+    width: 73.4693877551%;
+    height: 191px;
+    margin-top: 82px;
+    margin-left: 25.50808%;
+  }
+
+  .mainprojectcontainer .element {
+    position: relative;
+  }
+
+  .mainprojectcontainer .image {
+    height: auto;
+  }
+
+  .container .element-3 {
+    z-index: 17;
+    margin-top: 112px;
+    margin-left: 0;
+  }
+
+  .container .langtext-1 {
+    position: static;
+    float: right;
+    top: auto;
+    margin-top: 77px;
+    margin-right: 2px;
+  }
+
+  .container .langtext-2 {
+    left: -1px;
+  }
+
+  .container .menutext-1 {
+    margin-top: 132px;
+    margin-left: 0;
+  }
+
+  .container .menutext-2,
+  .container .menutext-3 {
+    margin-top: 80px;
+    margin-left: 8px;
+  }
+
+  .container-1 {
+    top: 25px;
+    left: 4.8828125%;
+    width: 10.64453125%;
+    height: 385px;
+  }
+
+  .container-3 {
+    left: 92.2409057617%;
+    width: 2.9296875%;
+  }
+
+  .element-2 {
+    width: 100.390625%;
+    height: 70px;
+  }
+
+  .mainprojectcontainer .element-4 {
+    z-index: 4;
+    width: 48.7074829931%;
+    height: 320px;
+    margin-top: 118px;
+    margin-left: 0.0680299999%;
+  }
+
+  .mainprojectcontainer .image-1 {
+    position: relative;
+    z-index: 7;
+    width: 99.8639455782%;
+    margin-top: 40px;
+    margin-left: 0;
+  }
+
+  .mainprojectcontainer .image-2 {
+    width: 100%;
+    margin-top: 5px;
+    margin-left: 0;
+  }
+
+  .mainprojectcontainer .image-3 {
+    width: 100%;
+    margin-left: 0;
+  }
+
+  .mainprojectcontainer .image-4,
+  .mainprojectcontainer .image-5 {
+    width: 99.8639455782%;
+    margin-left: 0.0680299999%;
+  }
+
+  .mainprojectcontainer .text-2 {
+    position: relative;
+    z-index: 6;
+    margin-top: 118px;
+    margin-left: 2.51063%;
+  }
+
+  .mainprojectcontainer .text-3 {
+    position: relative;
+    z-index: 5;
+    width: 48.7074829931%;
+    margin-top: -274px;
+    margin-left: 51.22449%;
+  }
+
+  .mainprojectcontainer .text-6 {
+    width: 75.6462585034%;
+    margin-left: -0.06803%;
+  }
+
+  .mainprojectcontainer .text-4,
+  .mainprojectcontainer .text-5,
+  .mainprojectcontainer .text-7 {
+    width: 74.4217687074%;
+    margin-left: -0.06803%;
+  }
+
+  ._container .element-5 {
+    position: relative;
+    z-index: 0;
+  }
+
+  ._container .text-8 {
+    position: relative;
+    z-index: 1;
+    margin-left: 4.99878%;
+  }
+
+  ._container .text-9 {
+    position: relative;
+    z-index: 2;
+    margin-right: 4.8996%;
+  }
+
+  ._container-4 {
+    position: relative;
+    z-index: 3;
+  }
+}
+
+@media(max-width: 768px) {
+  body {
+    font-size: 1em;
+  }
+
+  .burger {
+    left: 93.359375%;
+  }
+
+  .burger .lineofburg {
+    width: 99.140625%;
+  }
+
+  .container .text {
+    margin-top: 44px;
+    margin-left: 0;
+  }
+
+  .container .titletext {
+    width: 100.184501845%;
+  }
+
+  .mainprojectcontainer {
+    position: relative;
+    z-index: 20;
+    width: 94.7916666666%;
+  }
+
+  .mainprojectcontainer .container {
+    width: 74.4505494505%;
+    height: 161px;
+    margin-left: 25.54945%;
+  }
+
+  .mainprojectcontainer .element {
+    position: relative;
+  }
+
+  .mainprojectcontainer .image {
+    height: auto;
+  }
+
+  .container .element-1 {
+    width: 41.6715801886%;
+  }
+
+  .container .element-3 {
+    z-index: 17;
+    width: 5.7517222747%;
+    margin-top: 118px;
+    margin-left: -0.09802%;
+  }
+
+  .container .langtext-1 {
+    float: left;
+    margin-right: 0;
+    margin-left: -1px;
+  }
+
+  .container .menutext-1 {
+    margin-top: 211px;
+  }
+
+  .container .menutext-2 {
+    margin-left: 19px;
+  }
+
+  .container .menutext-3 {
+    margin-top: 102px;
+    margin-left: 19px;
+  }
+
+  .container-1 {
+    left: 2.6041666666%;
+    width: 10.15625%;
+  }
+
+  .container-3 {
+    left: 92.2403971354%;
+    width: 3.90625%;
+  }
+
+  .element-2 {
+    visibility: visible;
+    width: 100.4150390625%;
+    height: 67px;
+  }
+
+  .mainprojectcontainer .element-4 {
+    z-index: 4;
+    width: 48.7637362637%;
+    height: 331px;
+    margin-left: 0;
+  }
+
+  .mainprojectcontainer .image-1 {
+    position: relative;
+    z-index: 7;
+  }
+
+  .mainprojectcontainer .image-2 {
+    margin-top: 40px;
+  }
+
+  .mainprojectcontainer .image-4,
+  .mainprojectcontainer .image-5 {
+    margin-left: 0;
+  }
+
+  .mainprojectcontainer .text-2 {
+    position: relative;
+    z-index: 6;
+    margin-left: 2.47897%;
+  }
+
+  .mainprojectcontainer .text-3 {
+    position: relative;
+    z-index: 5;
+    width: 46.0180847586%;
+    margin-top: -275px;
+    margin-left: 51.24485%;
+  }
+
+  .mainprojectcontainer .text-4,
+  .mainprojectcontainer .text-5,
+  .mainprojectcontainer .text-6,
+  .mainprojectcontainer .text-7 {
+    width: 74.4505494505%;
+    margin-left: 0;
+  }
+
+  ._container .element-5 {
+    position: relative;
+    z-index: 0;
+  }
+
+  ._container .text-8 {
+    position: relative;
+    z-index: 1;
+    margin-left: 2.60417%;
+  }
+
+  ._container .text-9 {
+    position: relative;
+    z-index: 2;
+    margin-right: 2.81576%;
+  }
+
+  ._container-4 {
+    position: relative;
+    z-index: 3;
+  }
+}
+
+@media(max-width: 600px) {
+  .burger {
+    top: 21px;
+    left: 91.5729166666%;
+  }
+
+  .container .text {
+    margin-top: 33px;
+  }
+
+  .container .titletext {
+    width: 100.2398081534%;
+    font-size: 1.625em;
+  }
+
+  .mainprojectcontainer {
+    position: relative;
+    z-index: 20;
+    width: 93.3333333333%;
+  }
+
+  .mainprojectcontainer .container {
+    width: 74.4642857142%;
+    margin-top: 50px;
+    margin-left: 25.48549%;
+  }
+
+  .mainprojectcontainer .element {
+    position: relative;
+    margin-top: 100px;
+  }
+
+  .mainprojectcontainer .image {
+    height: auto;
+  }
+
+  .container .element-1 {
+    width: 45.3769841269%;
+  }
+
+  .container .element-3 {
+    z-index: 17;
+    width: 5.9569278171%;
+    margin-left: -0.1274000001%;
+  }
+
+  .container .menutext-1 {
+    margin-top: 195px;
+  }
+
+  .container-1 {
+    top: 21px;
+    left: 3.3333333333%;
+    width: 9.8333333333%;
+  }
+
+  .container-3 {
+    left: 92.2395833333%;
+  }
+
+  .element-2 {
+    width: 100.4166666666%;
+  }
+
+  .mainprojectcontainer .element-4 {
+    z-index: 4;
+    width: 100%;
+    height: 300px;
+  }
+
+  .mainprojectcontainer .image-1 {
+    position: relative;
+    z-index: 7;
+    margin-top: -26px;
+  }
+
+  .mainprojectcontainer .text-2 {
+    position: relative;
+    clear: both;
+    z-index: 6;
+    margin-top: 80px;
+    margin-left: 0;
+  }
+
+  .mainprojectcontainer .text-3 {
+    position: relative;
+    z-index: 5;
+    width: 100%;
+    margin-top: 26px;
+    margin-left: 0;
+  }
+
+  .mainprojectcontainer .text-6 {
+    width: 100%;
+  }
+
+  .mainprojectcontainer .text-4,
+  .mainprojectcontainer .text-5,
+  .mainprojectcontainer .text-7 {
+    width: 99.8214285714%;
+  }
+
+  ._container .element-5 {
+    position: relative;
+    z-index: 0;
+  }
+
+  ._container .text-8 {
+    position: relative;
+    z-index: 1;
+    margin-left: 3.33073%;
+  }
+
+  ._container .text-9 {
+    position: relative;
+    z-index: 2;
+    margin-right: 3.33073%;
+  }
+
+  ._container-4 {
+    position: relative;
+    z-index: 3;
+  }
+}
+
+@media(max-width: 480px) {
+  body {
+    font-size: 0.875em;
+  }
+
+  .burger {
+    left: 90.4166666666%;
+  }
+
+  .burger .lineofburg {
+    width: 95.3125%;
+  }
+
+  .container .element {
+    height: 5px;
+  }
+
+  .container .langtext {
+    font-size: 1.143em;
+  }
+
+  .container .menutext {
+    font-size: 1.143em;
+  }
+
+  .container .text {
+    margin-top: 31px;
+    margin-left: -0.26389%;
+    font-size: 14px;
+  }
+
+  .container .titletext {
+    width: 100.2222222222%;
+    font-size: 1.429em;
+  }
+
+  .mainprojectcontainer {
+    position: relative;
+    z-index: 20;
+    width: 100%;
+  }
+
+  .mainprojectcontainer .container {
+    width: 93.75%;
+    margin-left: 3.125%;
+  }
+
+  .mainprojectcontainer .element {
+    position: relative;
+  }
+
+  .mainprojectcontainer .image {
+    height: auto;
+  }
+
+  .container .element-1 {
+    width: 45.3621031746%;
+  }
+
+  .container .element-3 {
+    z-index: 17;
+    margin-top: 78px;
+    margin-left: -0.26389%;
+  }
+
+  .container .menutext-1 {
+    margin-top: 173px;
+    margin-left: -45px;
+  }
+
+  .container .menutext-2,
+  .container .menutext-3 {
+    margin-left: -13px;
+  }
+
+  .container-1 {
+    left: 3.125%;
+    width: 11.4583333333%;
+  }
+
+  .container-3 {
+    width: 6.25%;
+  }
+
+  .mainprojectcontainer .element-4 {
+    z-index: 4;
+    width: 133.8737089815%;
+    margin-top: 80px;
+    margin-left: -16.91081%;
+  }
+
+  .mainprojectcontainer .image-1 {
+    position: relative;
+    z-index: 7;
+    margin-top: -53px;
+  }
+
+  .mainprojectcontainer .text-2 {
+    position: relative;
+    z-index: 6;
+    margin-left: 3.125%;
+    font-size: 1.143em;
+  }
+
+  .mainprojectcontainer .text-3 {
+    position: relative;
+    z-index: 5;
+    width: 93.75%;
+    margin-left: 3.125%;
+    font-size: 14px;
+  }
+
+  .mainprojectcontainer .text-4,
+  .mainprojectcontainer .text-5,
+  .mainprojectcontainer .text-6,
+  .mainprojectcontainer .text-7 {
+    width: 93.75%;
+    margin-left: 3.125%;
+    font-size: 14px;
+  }
+
+  ._container .element-5 {
+    position: relative;
+    z-index: 0;
+  }
+
+  ._container .text-8 {
+    position: relative;
+    z-index: 1;
+    margin-left: 3.125%;
+    font-size: 14px;
+  }
+
+  ._container .text-9 {
+    position: relative;
+    z-index: 2;
+    margin-right: 3.125%;
+    font-size: 14px;
+  }
+
+  ._container-4 {
+    position: relative;
+    z-index: 3;
+    margin-top: 100px;
+  }
+}
+
+@media(max-width: 320px) {
+  .burger {
+    top: 22px;
+    left: 84.0625%;
+  }
+
+  .burger .lineofburg {
+    width: 91.8402777777%;
+  }
+
+  .container .element {
+    width: 15px;
+  }
+
+  .container .text {
+    margin-top: 25px;
+    margin-left: 0;
+  }
+
+  .container .titletext {
+    top: auto;
+    width: 100.3571428571%;
+  }
+
+  .element {
+    width: 100.3125%;
+  }
+
+  .mainprojectcontainer {
+    position: relative;
+    z-index: 20;
+  }
+
+  .mainprojectcontainer .container,
+  .mainprojectcontainer .text-4,
+  .mainprojectcontainer .text-5,
+  .mainprojectcontainer .text-6,
+  .mainprojectcontainer .text-7 {
+    width: 87.5%;
+    margin-left: 6.25%;
+  }
+
+  .mainprojectcontainer .element {
+    position: relative;
+  }
+
+  .mainprojectcontainer .image {
+    height: auto;
+  }
+
+  .container .element-3 {
+    z-index: 17;
+    margin-top: 70px;
+    margin-left: -0.08929%;
+  }
+
+  .container .menutext-1 {
+    margin-top: 161px;
+    margin-left: 26px;
+  }
+
+  .container .menutext-2 {
+    margin-left: 55px;
+  }
+
+  .container .menutext-3 {
+    margin-top: 80px;
+    margin-left: 55px;
+  }
+
+  .container-1 {
+    top: 20px;
+    left: 6.25%;
+    width: 20.3125%;
+    height: 405px;
+  }
+
+  .container-3 {
+    left: 92.236328125%;
+    width: 9.375%;
+  }
+
+  .element-2 {
+    height: 71px;
+  }
+
+  .mainprojectcontainer .element-4 {
+    z-index: 4;
+    width: 100%;
+    height: 250px;
+    margin-top: 79px;
+    margin-left: 0;
+  }
+
+  .mainprojectcontainer .image-1 {
+    position: relative;
+    z-index: 7;
+    margin-top: 10px;
+  }
+
+  .mainprojectcontainer .text-2 {
+    position: relative;
+    z-index: 6;
+    margin-left: 6.25%;
+  }
+
+  .mainprojectcontainer .text-3 {
+    position: relative;
+    z-index: 5;
+    width: 87.5%;
+    margin-left: 6.25%;
+  }
+
+  ._container .element-5 {
+    position: relative;
+    z-index: 0;
+    width: 91.9540229885%;
+  }
+
+  ._container .text-8 {
+    position: relative;
+    z-index: 1;
+    margin-left: 5.74124%;
+  }
+
+  ._container .text-9 {
+    position: relative;
+    z-index: 2;
+    margin-right: 13.7421399999%;
+  }
+
+  ._container-4 {
+    position: relative;
+    z-index: 3;
+    width: 108.69140625%;
+  }
+}
