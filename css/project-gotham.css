@@ -586,7 +586,7 @@ body {
   }
 
   .container .wrapper {
-    width: 99.7916666666%;
+    width: 100%;
   }
 
   .container .element-1 {
@@ -750,6 +750,7 @@ body {
   }
 
   .container .wrapper {
+    width: 100%;
   }
 
   .container .element-1 {
@@ -912,6 +913,7 @@ body {
   .container .wrapper {
     position: relative;
     z-index: 9;
+    width: 100%;
     margin-top: -35px;
   }
 
