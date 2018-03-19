@@ -1,6 +1,6 @@
 body {
   background-color: rgb(255, 255, 255);
-  font: normal 1em/1.38 'Montserrat Light';
+  font-family: 'Montserrat', sans-serif;
   color: rgb(0, 0, 0);
   animation: 2s ease-out 0s 1 appearpage;
 }
@@ -85,7 +85,9 @@ body {
   z-index: 4;
   width: 93.8288920056%;
   min-height: 100px;
-  font: 3em/1.3 'Montserrat ExtraBold';
+  font-size: 3em;
+  line-height: 1.3;
+  font-weight: 800;
   color: #356adb;
 }
 
@@ -177,7 +179,7 @@ body {
 
 .menutext-3 {
   margin-top: 66px;
-  font-family: 'Montserrat SemiBold';
+  font-weight: 600;
 }
 
 .text-1 {
@@ -198,7 +200,7 @@ body {
 .text-2 {
   clear: both;
   margin: 7px 0 0 0.76596%;
-  font-family: 'Montserrat SemiBold';
+  font-weight: 600;
   color: rgb(53, 106, 219);
 }
 
@@ -215,7 +217,7 @@ body {
   clear: both;
   width: 98.9130434782%;
   margin: 7px 0 0 0.52766%;
-  font-family: 'Montserrat SemiBold';
+  font-weight: 600;
   color: rgb(53, 106, 219);
 
 }
@@ -224,7 +226,7 @@ body {
   clear: both;
   width: 98.9130434782%;
   margin: 7px 0 0 0.52766%;
-  font-family: 'Montserrat SemiBold';
+  font-weight: 600;
   color: rgb(53, 106, 219);
   cursor: pointer;
 }
@@ -234,7 +236,7 @@ body {
   clear: both;
   width: 98.9130434782%;
   margin: 5px 0 0 0.52766%;
-  font-family: 'Montserrat SemiBold';
+  font-weight: 600;
   color: rgb(53, 106, 219);
   cursor: pointer;
 }
