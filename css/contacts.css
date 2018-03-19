@@ -199,7 +199,7 @@ body {
 
 .text-2 {
   clear: both;
-  margin: 7px 0 0 0.76596%;
+  margin: 15px 0 0 0.76596%;
   font-weight: 600;
   color: rgb(53, 106, 219);
 }
@@ -216,7 +216,7 @@ body {
 .text-4{
   clear: both;
   width: 98.9130434782%;
-  margin: 7px 0 0 0.52766%;
+  margin: 15px 0 0 0.52766%;
   font-weight: 600;
   color: rgb(53, 106, 219);
 
@@ -225,7 +225,7 @@ body {
 .text-6 {
   clear: both;
   width: 98.9130434782%;
-  margin: 7px 0 0 0.52766%;
+  margin: 15px 0 0 0.52766%;
   font-weight: 600;
   color: rgb(53, 106, 219);
   cursor: pointer;
@@ -235,7 +235,7 @@ body {
 .text-8 {
   clear: both;
   width: 98.9130434782%;
-  margin: 5px 0 0 0.52766%;
+  margin: 12px 0 0 0.52766%;
   font-weight: 600;
   color: rgb(53, 106, 219);
   cursor: pointer;
@@ -763,7 +763,7 @@ body {
 
   .container-1 {
     left: 3.125%;
-    width: 9.375%;
+    width: 11.66666%;
   }
 
   .container-2 {
