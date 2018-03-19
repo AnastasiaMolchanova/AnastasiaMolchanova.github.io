@@ -502,12 +502,12 @@ body {
 
   .container .text-4 {
     width: 74.3206521739%;
-    margin-left: 25.64326%;
+    margin-left: 0;
   }
 
   .container .text-5 {
     width: 74.3206521739%;
-    margin-left: 25.67935%;
+    margin-left: 0;
   }
 
   .container .text-6 {
@@ -680,7 +680,7 @@ body {
   .container .text-4,
   .container .text-5 {
     width: 74.552957359%;
-    margin-left: 25.43845%;
+    margin-left: 0;
   }
 
   .container .text-6 {
@@ -891,7 +891,7 @@ body {
 
   .container .container {
     width: 93.75%;
-    margin-top: 0;
+    margin-top: 50;
     margin-left: 3.125%;
   }
 
