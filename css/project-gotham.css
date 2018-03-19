@@ -400,7 +400,7 @@ body {
 
   .container .wrapper {
     width: 100%;
-    margin-left: 0;
+    margin-left: 0%;
   }
 
   .container .element-1 {
@@ -587,6 +587,7 @@ body {
 
   .container .wrapper {
     width: 100%;
+    margin-left: 0%;
   }
 
   .container .element-1 {
@@ -751,6 +752,7 @@ body {
 
   .container .wrapper {
     width: 100%;
+    margin-left: 0%;
   }
 
   .container .element-1 {
@@ -915,6 +917,7 @@ body {
     z-index: 9;
     width: 100%;
     margin-top: -35px;
+    margin-left: 0%;
   }
 
   .container .element-1 {
@@ -1081,6 +1084,7 @@ body {
     z-index: 9;
     width: 100%;
     margin-top: 0;
+    margin-left: 0%;
   }
 
   .element {
