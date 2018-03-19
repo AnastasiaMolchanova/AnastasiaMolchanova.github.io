@@ -106,7 +106,7 @@ body {
   color: #356adb;
 }
 
-.wrapper {
+.wrapper iframe{
   float: left;
   clear: both;
   width: 89.693039795%;
