@@ -1,8 +1,10 @@
 body {
   background-color: rgb(255, 255, 255);
+    font-family: 'Montserrat', sans-serif;
   font: normal 1em/1.38 'Montserrat Light';
   color: rgb(0, 0, 0);
   animation: 2s ease-out 0s 1 appearpage;
+
 }
 
 @keyframes appearpage {
