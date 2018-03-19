@@ -1,6 +1,6 @@
 body {
   background-color: rgb(53, 106, 219);
-  font: normal 1em/1.38 'Montserrat Light';
+  font-family: 'Montserrat', sans-serif;
   color: rgb(255, 255, 255);
   animation: 0.5s ease-out 0s 1 slideInFromedge;
 }
@@ -89,7 +89,7 @@ body {
 .langtext-2 {
   right: 79px;
   z-index: 5;
-  font-family: 'Montserrat SemiBold';
+  font-weight: 600;
 }
 
 .lineofburg-1 {
