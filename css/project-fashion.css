@@ -288,8 +288,7 @@ body {
   .burger {
     visibility: visible;
     top: 25px;
-    left: 92.0455932617%;
-    right: auto;
+    right: 4.83%;
     height: 30px;
     opacity: 1;
   }
@@ -454,7 +453,7 @@ body {
   }
 
   .burger {
-    left: 93.359375%;
+    right: 2.6%;
   }
 
   .burger .lineofburg {
@@ -589,7 +588,7 @@ body {
 @media(max-width: 600px) {
   .burger {
     top: 21px;
-    left: 91.5729166666%;
+    right: 3.33%;
   }
 
   .container .container {
@@ -704,7 +703,7 @@ body {
   }
 
   .burger {
-    left: 90.4166666666%;
+    right: 3.13%;
   }
 
   .burger .lineofburg {
@@ -834,7 +833,7 @@ body {
 @media(max-width: 320px) {
   .burger {
     top: 22px;
-    left: 84.0625%;
+    right: 5.31%;
   }
 
   .burger .lineofburg {
