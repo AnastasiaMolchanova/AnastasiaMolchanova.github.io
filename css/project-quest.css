@@ -437,7 +437,7 @@ body {
   .container .image-6 {
     width: 100%;
     margin-top: 0;
-    margin-left: -0.06378%;
+    margin-left: 0;
   }
 
   .container .langtext-1 {
@@ -619,7 +619,8 @@ body {
   }
 
   .container .image-6 {
-    margin-left: -0.06878%;
+    margin-left: 0;
+    width: 100%;
   }
 
   .container .langtext-1 {
@@ -778,6 +779,7 @@ body {
   .container .image-2,
   .container .image-6 {
     margin-left: 0;
+    width: 100%;
   }
 
   .container .menutext-1 {
@@ -931,6 +933,11 @@ body {
     width: 99.7916666666%;
     margin-top: 15px;
     margin-left: 0;
+  }
+
+  .container .image-6 {
+    margin-left: 0;
+    width: 100%;
   }
 
   .container .menutext-1 {
