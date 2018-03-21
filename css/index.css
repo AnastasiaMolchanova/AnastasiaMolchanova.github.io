@@ -48,7 +48,8 @@ body {
   width: 79.4809181608%;
   height: 345px;
   margin: -345px 0 0 10.28745%;
-  background-color: rgba(1, 0, 3, 0);
+  background-color: rgb(1, 0, 3);
+  opacity: 0;
   cursor: pointer;
 }
 
@@ -60,7 +61,8 @@ body {
   width: 38.512523547%;
   height: 345px;
   margin: -345px 0 0 10.28745%;
-  background-color: rgba(1, 0, 3, 0);
+  background-color: rgb(1, 0, 3);
+  opacity: 0;
   cursor: pointer;
 }
 
@@ -71,7 +73,8 @@ body {
   width: 48.7825298262%;
   height: 345px;
   margin: -345px 0 0 51.20526%;
-  background-color: rgba(1, 0, 3, 0);
+  background-color: rgb(1, 0, 3);
+  opacity: 0;
   cursor: pointer;
 }
 
@@ -83,7 +86,8 @@ body {
   width: 69.3225423847%;
   height: 345px;
   margin: -345px 0 0 30.67746%;
-  background-color: rgba(1, 0, 3, 0);
+  background-color: rgb(1, 0, 3);
+  opacity: 0;
   cursor: pointer;
 }
 
@@ -95,7 +99,8 @@ body {
   width: 79.4809181608%;
   height: 345px;
   margin: -345px 0 0 10.25954%;
-  background-color: rgba(1, 0, 3, 0);
+  background-color: rgb(1, 0, 3);
+  opacity: 0;
   cursor: pointer;
 }
 
@@ -107,7 +112,8 @@ body {
   width: 38.4706621084%;
   height: 345px;
   margin: -345px 0 0 10.28745%;
-  background-color: rgba(1, 0, 3, 0);
+  background-color: rgb(1, 0, 3);
+  opacity: 0;
   cursor: pointer;
 }
 
@@ -118,7 +124,8 @@ body {
   width: 48.7825298262%;
   height: 345px;
   margin: -345px 0 0 51.21747%;
-  background-color: rgba(1, 0, 3, 0);
+  background-color: rgb(1, 0, 3);
+  opacity: 0;
   cursor: pointer;
 }
 
@@ -130,7 +137,8 @@ body {
   width: 69.3225423847%;
   height: 345px;
   margin: -345px 0 0 30.67746%;
-  background-color: rgba(1, 0, 3, 0);
+  background-color: rgb(1, 0, 3);
+  opacity: 0;
   cursor: pointer;
 }
 
@@ -141,7 +149,8 @@ body {
   width: 47.6662247959%;
   margin: -100px 0 0 13.78637%;
   font-size: 1em;
-  color: rgba(255, 255, 255, 0);
+  color: rgb(255, 255, 255);
+  opacity: 0;
 }
 
 .prname2 {
@@ -151,7 +160,8 @@ body {
   width: 31.5914323588%;
   margin: -136px 0 0 13.78637%;
   font-size: 1em;
-  color: rgba(255, 255, 255, 0);
+  color: rgb(255, 255, 255);
+  opacity: 0;
 }
 
 .prname3 {
@@ -161,7 +171,8 @@ body {
   width: 38.62415405%;
   margin: -136px 0 0 54.9099999999%;
   font-size: 1em;
-  color: rgba(255, 255, 255, 0);
+  color: rgb(255, 255, 255);
+  opacity: 0;
 }
 
 .prname4 {
@@ -171,7 +182,8 @@ body {
   width: 34.8287169469%;
   margin: -100px 0 0 34.48336%;
   font-size: 1em;
-  color: rgba(255, 255, 255, 0);
+  color: rgb(255, 255, 255);
+  opacity: 0;
 }
 
 .prname5 {
@@ -181,7 +193,8 @@ body {
   width: 45.2103537291%;
   margin: -100px 0 0 13.83172%;
   font-size: 1em;
-  color: rgba(255, 255, 255, 0);
+  color: rgb(255, 255, 255);
+  opacity: 0;
 }
 
 .prname6 {
@@ -191,7 +204,8 @@ body {
   width: 31.5914323588%;
   margin: -136px 0 0 13.78637%;
   font-size: 1em;
-  color: rgba(255, 255, 255, 0);
+  color: rgb(255, 255, 255);
+  opacity: 0;
 }
 
 .prname7 {
@@ -201,7 +215,8 @@ body {
   width: 40.9683946138%;
   margin: -100px 0 0 54.90651%;
   font-size: 1em;
-  color: rgba(255, 255, 255, 0);
+  color: rgb(255, 255, 255);
+  opacity: 0;
 }
 
 .prname8 {
@@ -211,7 +226,8 @@ body {
   width: 34.8287169469%;
   margin: -64px 0 0 34.48336%;
   font-size: 1em;
-  color: rgba(255, 255, 255, 0);
+  color: rgb(255, 255, 255);
+  opacity: 0;
 }
 
 .cover1:hover,
