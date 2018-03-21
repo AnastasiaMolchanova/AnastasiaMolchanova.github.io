@@ -40,6 +40,136 @@ body {
   height: 104px;
 }
 
+.cover1 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 12;
+  width: 79.4809181608%;
+  height: 345px;
+  margin: -345px 0 0 10.28745%;
+  background-color: rgba(1, 0, 3, 0);
+}
+
+.cover2 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 13;
+  width: 38.512523547%;
+  height: 345px;
+  margin: -345px 0 0 10.28745%;
+  background-color: rgba(1, 0, 3, 0);
+}
+
+.cover3 {
+  position: relative;
+  float: left;
+  z-index: 14;
+  width: 48.7825298262%;
+  height: 345px;
+  margin: -345px 0 0 51.20526%;
+  background-color: rgba(1, 0, 3, 0);
+}
+
+.cover4 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 15;
+  width: 69.3225423847%;
+  height: 345px;
+  margin: -345px 0 0 30.67746%;
+  background-color: rgba(1, 0, 3, 0);
+}
+
+.cover5 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 16;
+  width: 79.4809181608%;
+  height: 345px;
+  margin: -345px 0 0 10.25954%;
+  background-color: rgba(1, 0, 3, 0);
+}
+
+.cover6 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 17;
+  width: 38.4706621084%;
+  height: 345px;
+  margin: -345px 0 0 10.28745%;
+  background-color: rgba(1, 0, 3, 0);
+}
+
+.cover7 {
+  position: relative;
+  float: left;
+  z-index: 18;
+  width: 48.7825298262%;
+  height: 345px;
+  margin: -345px 0 0 51.21747%;
+  background-color: rgba(1, 0, 3, 0);
+}
+
+.cover8 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 19;
+  width: 69.3225423847%;
+  height: 345px;
+  margin: -345px 0 0 30.67746%;
+  background-color: rgba(1, 0, 3, 0);
+}
+
+.cover1:hover,
+.cover2:hover,
+.cover3:hover,
+.cover4:hover,
+.cover5:hover,
+.cover6:hover,
+.cover7:hover,
+.cover8:hover {
+  animation: 2s ease-out 0s 1 coverpr;
+}
+
+@keyframes coverpr {
+		0%    {opacity: 0.0;}
+		100%  {opacity: 1.0;}
+		}
+@-webkit-keyframes coverpr {
+  0%    {opacity: 0.0;}
+  100%  {opacity: 1.0;}
+}
+
+.cover1:hover. prname1,
+.cover2:hover. prname2,
+.cover3:hover. prname3,
+.cover4:hover. prname4,
+.cover5:hover. prname5,
+.cover6:hover. prname6,
+.cover7:hover. prname7,
+.cover8:hover {
+  animation: 2s ease-out 0s 1 coverpr;
+}
+
+@keyframes coverpr {
+		0%    {opacity: 0.0;}
+		100%  {opacity: 1.0;}
+		}
+@-webkit-keyframes coverpr {
+  0%    {opacity: 0.0;}
+  100%  {opacity: 1.0;}
+}
+
+
+
+
+
 .langtext {
   position: absolute;
   right: 0;
