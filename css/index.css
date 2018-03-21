@@ -248,8 +248,6 @@ body {
 
 
 
-
-
 .langtext {
   position: absolute;
   right: 0;
@@ -428,12 +426,6 @@ animation: 0.5s ease-out 1s 1 slideInFrombottom;
 }
 
 
-.projectlist-1:hover{
-  box-shadow: 0 -400px 5px rgba(41, 73, 142, 0.67) inset;
-  transition: 0.7s ease-out;
-}
-
-
 .projectlist-2 {
   position: relative;
   clear: both;
@@ -493,12 +485,6 @@ animation: 0.5s ease-out 1s 1 slideInFrombottom;
   cursor: pointer;
 }
 
-.projectlist-4:hover,
-.projectlist-5:hover,
-.projectlist-6:hover {
-  box-shadow: 0 -400px 5px rgba(41, 73, 142, 0.67) inset;
-  transition: 0.7s;
-}
 
 .projectlist-7 {
   position: relative;
@@ -522,13 +508,6 @@ animation: 0.5s ease-out 1s 1 slideInFrombottom;
   cursor: pointer;
 }
 
-.projectlist-2:hover,
-.projectlist-3:hover,
-.projectlist-7:hover,
-.projectlist-8:hover {
-  box-shadow: 0 -400px 5px rgba(41, 73, 142, 0.67) inset;
-  transition: 0.7s;
-}
 
 .text-2 {
   position: relative;
