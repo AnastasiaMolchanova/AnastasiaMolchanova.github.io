@@ -49,7 +49,7 @@ body {
   height: 345px;
   margin: -345px 0 0 10.28745%;
   background-color: rgb(1, 0, 3);
-  opacity: 0;
+  opacity: 1;
   cursor: pointer;
 }
 
@@ -62,7 +62,7 @@ body {
   height: 345px;
   margin: -345px 0 0 10.28745%;
   background-color: rgb(1, 0, 3);
-  opacity: 0;
+  opacity: 1;
   cursor: pointer;
 }
 
@@ -74,7 +74,7 @@ body {
   height: 345px;
   margin: -345px 0 0 51.20526%;
   background-color: rgb(1, 0, 3);
-  opacity: 0;
+  opacity: 1;
   cursor: pointer;
 }
 
@@ -87,7 +87,7 @@ body {
   height: 345px;
   margin: -345px 0 0 30.67746%;
   background-color: rgb(1, 0, 3);
-  opacity: 0;
+  opacity: 1;
   cursor: pointer;
 }
 
@@ -100,7 +100,7 @@ body {
   height: 345px;
   margin: -345px 0 0 10.25954%;
   background-color: rgb(1, 0, 3);
-  opacity: 0;
+  opacity: 1;
   cursor: pointer;
 }
 
@@ -113,7 +113,7 @@ body {
   height: 345px;
   margin: -345px 0 0 10.28745%;
   background-color: rgb(1, 0, 3);
-  opacity: 0;
+  opacity: 1;
   cursor: pointer;
 }
 
@@ -125,7 +125,7 @@ body {
   height: 345px;
   margin: -345px 0 0 51.21747%;
   background-color: rgb(1, 0, 3);
-  opacity: 0;
+  opacity: 1;
   cursor: pointer;
 }
 
@@ -138,7 +138,7 @@ body {
   height: 345px;
   margin: -345px 0 0 30.67746%;
   background-color: rgb(1, 0, 3);
-  opacity: 0;
+  opacity: 1;
   cursor: pointer;
 }
 
@@ -150,7 +150,7 @@ body {
   margin: -100px 0 0 13.78637%;
   font-size: 1em;
   color: rgb(255, 255, 255);
-  opacity: 0;
+  opacity: 1;
 }
 
 .prname2 {
@@ -161,7 +161,7 @@ body {
   margin: -136px 0 0 13.78637%;
   font-size: 1em;
   color: rgb(255, 255, 255);
-  opacity: 0;
+  opacity: 1;
 }
 
 .prname3 {
@@ -172,7 +172,7 @@ body {
   margin: -136px 0 0 54.9099999999%;
   font-size: 1em;
   color: rgb(255, 255, 255);
-  opacity: 0;
+  opacity: 1;
 }
 
 .prname4 {
@@ -183,7 +183,7 @@ body {
   margin: -100px 0 0 34.48336%;
   font-size: 1em;
   color: rgb(255, 255, 255);
-  opacity: 0;
+  opacity: 1;
 }
 
 .prname5 {
@@ -194,7 +194,7 @@ body {
   margin: -100px 0 0 13.83172%;
   font-size: 1em;
   color: rgb(255, 255, 255);
-  opacity: 0;
+  opacity: 1;
 }
 
 .prname6 {
@@ -205,7 +205,7 @@ body {
   margin: -136px 0 0 13.78637%;
   font-size: 1em;
   color: rgb(255, 255, 255);
-  opacity: 0;
+  opacity: 1;
 }
 
 .prname7 {
@@ -216,7 +216,7 @@ body {
   margin: -100px 0 0 54.90651%;
   font-size: 1em;
   color: rgb(255, 255, 255);
-  opacity: 0;
+  opacity: 1;
 }
 
 .prname8 {
@@ -227,28 +227,9 @@ body {
   margin: -64px 0 0 34.48336%;
   font-size: 1em;
   color: rgb(255, 255, 255);
-  opacity: 0;
+  opacity: 1;
 }
 
-.cover1:hover,
-.cover2:hover,
-.cover3:hover,
-.cover4:hover,
-.cover5:hover,
-.cover6:hover,
-.cover7:hover,
-.cover8:hover {
-  animation: 2s ease-out 0s 1 coverpr;
-}
-
-@keyframes coverpr {
-		0%    {opacity: 0.0;}
-		100%  {opacity: 1.0;}
-		}
-@-webkit-keyframes coverpr {
-  0%    {opacity: 0.0;}
-  100%  {opacity: 1.0;}
-}
 
 
 .langtext {
