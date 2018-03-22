@@ -49,6 +49,7 @@ body {
   height: 345px;
   margin: -345px 0 0 10.28745%;
   opacity: 0;
+  cursor: pointer;
 
 }
 
@@ -61,6 +62,7 @@ body {
   height: 345px;
   margin: -345px 0 0 10.28745%;
   opacity: 0;
+  cursor: pointer;
 }
 
 .block3 {
@@ -71,6 +73,7 @@ body {
   height: 345px;
   margin: -345px 0 0 51.20526%;
   opacity: 0;
+  cursor: pointer;
 }
 
 .block4 {
@@ -82,6 +85,7 @@ body {
   height: 345px;
   margin: -345px 0 0 30.67746%;
   opacity: 0;
+  cursor: pointer;
 }
 
 .block5 {
@@ -93,6 +97,7 @@ body {
   height: 345px;
   margin: -345px 0 0 10.25954%;
   opacity: 0;
+  cursor: pointer;
 }
 
 .block6 {
@@ -104,6 +109,7 @@ body {
   height: 345px;
   margin: -345px 0 0 10.28745%;
   opacity: 0;
+  cursor: pointer;
 }
 
 .block7 {
@@ -114,6 +120,7 @@ body {
   height: 345px;
   margin: -345px 0 0 51.21747%;
   opacity: 0;
+  cursor: pointer;
 }
 
 .block8 {
@@ -125,6 +132,7 @@ body {
   height: 345px;
   margin: -345px 0 0 30.67746%;
   opacity: 0;
+  cursor: pointer;
 }
 
 .cover1 {
@@ -136,7 +144,7 @@ body {
   height: 345px;
   margin: -345px 0 0 10.28745%;
   background-color: rgb(1, 0, 3);
-  opacity: 0.8;
+  opacity: 0.4;
   cursor: pointer;
 }
 
@@ -149,7 +157,7 @@ body {
   height: 345px;
   margin: -345px 0 0 10.28745%;
   background-color: rgb(1, 0, 3);
-  opacity: 0.8;
+  opacity: 0.4;
   cursor: pointer;
 }
 
@@ -161,7 +169,7 @@ body {
   height: 345px;
   margin: -345px 0 0 51.20526%;
   background-color: rgb(1, 0, 3);
-  opacity: 0.8;
+  opacity: 0.4;
   cursor: pointer;
 }
 
@@ -174,7 +182,7 @@ body {
   height: 345px;
   margin: -345px 0 0 30.67746%;
   background-color: rgb(1, 0, 3);
-  opacity: 0.8;
+  opacity: 0.4;
   cursor: pointer;
 }
 
@@ -187,7 +195,7 @@ body {
   height: 345px;
   margin: -345px 0 0 10.25954%;
   background-color: rgb(1, 0, 3);
-  opacity: 0.8;
+  opacity: 0.4;
   cursor: pointer;
 }
 
@@ -200,7 +208,7 @@ body {
   height: 345px;
   margin: -345px 0 0 10.28745%;
   background-color: rgb(1, 0, 3);
-  opacity: 0.8;
+  opacity: 0.4;
   cursor: pointer;
 }
 
@@ -212,7 +220,7 @@ body {
   height: 345px;
   margin: -345px 0 0 51.21747%;
   background-color: rgb(1, 0, 3);
-  opacity: 0.8;
+  opacity: 0.4;
   cursor: pointer;
 }
 
@@ -225,7 +233,7 @@ body {
   height: 345px;
   margin: -345px 0 0 30.67746%;
   background-color: rgb(1, 0, 3);
-  opacity: 0.8;
+  opacity: 0.4;
   cursor: pointer;
 }
 
@@ -253,6 +261,7 @@ body {
   line-height: 1.38em;
   color: rgb(255, 255, 255);
   opacity: 1;
+  cursor: pointer;
 }
 
 .prname3 {
@@ -266,6 +275,7 @@ body {
   line-height: 1.38em;
   color: rgb(255, 255, 255);
   opacity: 1;
+  cursor: pointer;
 }
 
 .prname4 {
@@ -279,6 +289,7 @@ body {
   line-height: 1.38em;
   color: rgb(255, 255, 255);
   opacity: 1;
+  cursor: pointer;
 }
 
 .prname5 {
@@ -292,6 +303,7 @@ body {
   line-height: 1.38em;
   color: rgb(255, 255, 255);
   opacity: 1;
+  cursor: pointer;
 }
 
 .prname6 {
@@ -305,6 +317,7 @@ body {
   line-height: 1.38em;
   color: rgb(255, 255, 255);
   opacity: 1;
+  cursor: pointer;
 }
 
 .prname7 {
@@ -318,6 +331,7 @@ body {
   line-height: 1.38em;
   color: rgb(255, 255, 255);
   opacity: 1;
+  cursor: pointer;
 }
 
 .prname8 {
@@ -331,6 +345,19 @@ body {
   line-height: 1.38em;
   color: rgb(255, 255, 255);
   opacity: 1;
+  cursor: pointer;
+}
+
+.block1:hover,
+.block2:hover,
+.block3:hover,
+.block4:hover,
+.block5:hover,
+.block6:hover,
+.block7:hover,
+.block8:hover {
+opacity: 1;
+transition: ease-out 0.5s;
 }
 
 .langtext {
