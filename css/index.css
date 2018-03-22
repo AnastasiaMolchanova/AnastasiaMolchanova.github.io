@@ -609,9 +609,6 @@ animation: 0.5s ease-out 1s 1 slideInFrombottom;
 }
 
 @media(max-width: 1024px) {
-  .projectlist-7:hover {
-    box-shadow: 0 -400px 5px rgba(41, 73, 142, 0.67) inset;
-  }
 
   .burger {
     visibility: visible;
@@ -713,46 +710,54 @@ animation: 0.5s ease-out 1s 1 slideInFrombottom;
   }
 
   .mainindexconteiner .projectlist-1 {
+    z-index: 4;
     width: 87.2108843537%;
     margin-top: 80px;
     margin-left: 0;
   }
 
   .mainindexconteiner .projectlist-2 {
-    position: relative;
+    clear: both;
     z-index: 5;
     width: 48.8435374149%;
     margin-left: -0.09779%;
   }
 
   .mainindexconteiner .projectlist-3 {
-    position: relative;
     z-index: 6;
     width: 48.8435374149%;
-    margin-left: 2.4085899999%;
+    margin-top: -300px;
+    margin-left: 51.14796%;
+  }
+
+  .mainindexconteiner .projectlist-4 {
+    z-index: 7;
+    width: 74.4217687074%;
+    margin-left: 25.57611%;
   }
 
   .mainindexconteiner .projectlist-5 {
+    z-index: 8;
     width: 87.3469387755%;
     margin-left: 0;
   }
 
   .mainindexconteiner .projectlist-6 {
-    position: relative;
+    clear: both;
     z-index: 9;
     width: 48.7074829931%;
-    margin-left: 0;
+    margin-left: -0.09779%;
   }
 
   .mainindexconteiner .projectlist-7 {
-    position: relative;
     z-index: 10;
     width: 48.8435374149%;
-    margin-left: 2.44898%;
+    margin-top: -300px;
+    margin-left: 51.15434%;
   }
 
-  .mainindexconteiner .projectlist-4,
   .mainindexconteiner .projectlist-8 {
+    z-index: 11;
     width: 74.4217687074%;
     margin-left: 25.57611%;
   }
