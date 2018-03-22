@@ -795,60 +795,60 @@ animation: 0.5s ease-out 1s 1 slideInFrombottom;
     z-index: 30;
     margin-top: 140px;
   }
+
+
+  .mainindexconteiner .cover1 {
+    position: relative;
+    z-index: 12;
+    width: 87.2108843537%;
+    height: 300px;
+    margin-top: -300px;
+    margin-left: 0;
 }
 
-.mainindexconteiner .cover1 {
-  position: relative;
-  z-index: 12;
-  width: 87.2108843537%;
-  height: 300px;
-  margin-top: -300px;
-  margin-left: 0;
+  .mainindexconteiner .cover2 {
+    position: relative;
+    z-index: 13;
+    width: 48.7074829931%;
+    height: 300px;
+    margin-top: -300px;
+    margin-left: 0;
 }
 
-.mainindexconteiner .cover2 {
-  position: relative;
-  z-index: 13;
-  width: 48.7074829931%;
-  height: 300px;
-  margin-top: -300px;
-  margin-left: 0;
+  .mainindexconteiner .cover3 {
+    position: relative;
+    z-index: 14;
+    width: 48.8435374149%;
+    height: 300px;
+    margin-top: -300px;
+    margin-left: 51.15434%;
 }
 
-.mainindexconteiner .cover3 {
-  position: relative;
-  z-index: 14;
-  width: 48.8435374149%;
-  height: 300px;
-  margin-top: -300px;
-  margin-left: 51.15434%;
+  .mainindexconteiner .cover4 {
+    position: relative;
+    z-index: 15;
+    width: 74.2857142857%;
+    height: 300px;
+    margin-top: -300px;
+    margin-left: 25.53997%;
 }
 
-.mainindexconteiner .cover4 {
-  position: relative;
-  z-index: 15;
-  width: 74.2857142857%;
-  height: 300px;
-  margin-top: -300px;
-  margin-left: 25.53997%;
+  .mainindexconteiner .cover5 {
+    position: relative;
+    z-index: 16;
+    width: 87.3469387755%;
+    height: 300px;
+    margin-top: -300px;
+    margin-left: 0;
 }
 
-.mainindexconteiner .cover5 {
-  position: relative;
-  z-index: 16;
-  width: 87.3469387755%;
-  height: 300px;
-  margin-top: -300px;
-  margin-left: 0;
-}
-
-.mainindexconteiner .cover6 {
-  position: relative;
-  z-index: 17;
-  width: 48.8435374149%;
-  height: 300px;
-  margin-top: -300px;
-  margin-left: -0.13393%;
+  .mainindexconteiner .cover6 {
+    position: relative;
+    z-index: 17;
+    width: 48.8435374149%;
+    height: 300px;
+    margin-top: -300px;
+    margin-left: -0.13393%;
 }
 
 .mainindexconteiner .cover7 {
@@ -974,7 +974,7 @@ animation: 0.5s ease-out 1s 1 slideInFrombottom;
   height: 300px;
   margin-top: -300px;
   margin-left: 25.53997%;
-}
+ }
 
 .mainindexconteiner .block5 {
   position: relative;
@@ -983,7 +983,7 @@ animation: 0.5s ease-out 1s 1 slideInFrombottom;
   height: 300px;
   margin-top: -300px;
   margin-left: 0;
-}
+ }
 
 .mainindexconteiner .block6 {
   position: relative;
@@ -992,7 +992,7 @@ animation: 0.5s ease-out 1s 1 slideInFrombottom;
   height: 300px;
   margin-top: -300px;
   margin-left: -0.13393%;
-}
+ }
 
 .mainindexconteiner .block7 {
   position: relative;
@@ -1001,7 +1001,7 @@ animation: 0.5s ease-out 1s 1 slideInFrombottom;
   height: 300px;
   margin-top: -300px;
   margin-left: 51.15434%;
-}
+ }
 
 .mainindexconteiner .block8 {
   position: relative;
@@ -1010,6 +1010,7 @@ animation: 0.5s ease-out 1s 1 slideInFrombottom;
   height: 300px;
   margin-top: -300px;
   margin-left: 25.57611%;
+ }
 }
 
 @media(max-width: 768px) {
@@ -1165,7 +1166,6 @@ animation: 0.5s ease-out 1s 1 slideInFrombottom;
     position: relative;
     z-index: 30;
   }
-}
 
 .mainindexconteiner .cover1 {
   position: relative;
@@ -1358,7 +1358,7 @@ animation: 0.5s ease-out 1s 1 slideInFrombottom;
   margin-top: -265px;
   margin-left: 25.61553%;
 }
-
+}
 
 @media(max-width: 600px) {
   .burger {
@@ -1479,131 +1479,7 @@ animation: 0.5s ease-out 1s 1 slideInFrombottom;
     position: relative;
     z-index: 30;
   }
-}
-
-.mainindexconteiner .cover1 {
-    position: relative;
-    z-index: 12;
-    width: 100%;
-    height: 260px;
-    margin-top: -260px;
-  }
-
-  .mainindexconteiner .cover2 {
-    position: relative;
-    z-index: 13;
-    width: 49.1071428571%;
-    height: 260px;
-    margin-top: -260px;
-  }
-
-  .mainindexconteiner .cover3 {
-    position: relative;
-    z-index: 14;
-    width: 48.9285714285%;
-    height: 260px;
-    margin-top: -260px;
-    margin-left: 51.07143%;
-  }
-
-  .mainindexconteiner .cover4 {
-    position: relative;
-    z-index: 15;
-    width: 99.8214285714%;
-    height: 260px;
-    margin-top: -260px;
-    margin-left: 0;
-  }
-
-  .mainindexconteiner .cover5 {
-    position: relative;
-    z-index: 16;
-    width: 99.8214285714%;
-    height: 260px;
-    margin-top: -260px;
-  }
-
-  .mainindexconteiner .cover6 {
-    position: relative;
-    z-index: 17;
-    width: 48.9285714285%;
-    height: 260px;
-    margin-top: -260px;
-  }
-
-  .mainindexconteiner .cover7 {
-    position: relative;
-    z-index: 18;
-    width: 48.9285714285%;
-    height: 260px;
-    margin-top: -260px;
-    margin-left: 51.06585%;
-  }
-
-  .mainindexconteiner .cover8 {
-    position: relative;
-    z-index: 19;
-    width: 99.8214285714%;
-    height: 260px;
-    margin-top: -260px;
-    margin-left: 0;
-  }
-
-  .mainindexconteiner .prname1 {
-    position: relative;
-    z-index: 20;
-    margin-left: 3.90904%;
-  }
-
-  .mainindexconteiner .prname2 {
-    position: relative;
-    z-index: 21;
-    width: 58.5416666666%;
-    margin-left: 3.90904%;
-  }
-
-  .mainindexconteiner .prname3 {
-    position: relative;
-    z-index: 22;
-    margin-left: 53.5742199999%;
-  }
-
-  .mainindexconteiner .prname4 {
-    position: relative;
-    z-index: 23;
-    margin-left: 3.90904%;
-  }
-
-  .mainindexconteiner .prname5 {
-    position: relative;
-    z-index: 24;
-    margin-left: 3.99833%;
-  }
-
-  .mainindexconteiner .prname6 {
-    position: relative;
-    z-index: 25;
-    width: 39.8214285714%;
-    margin-top: -107px;
-    margin-left: 3.90904%;
-  }
-
-  .mainindexconteiner .prname7 {
-    position: relative;
-    clear: both;
-    z-index: 26;
-    width: 59.7916666666%;
-    margin-top: -107px;
-    margin-left: 54.99442%;
-  }
-
-  .mainindexconteiner .prname8 {
-    position: relative;
-    z-index: 27;
-    margin-left: 3.99833%;
-  }
-
-  .mainindexconteiner .block1 {
+  .mainindexconteiner .cover1 {
       position: relative;
       z-index: 12;
       width: 100%;
@@ -1611,7 +1487,7 @@ animation: 0.5s ease-out 1s 1 slideInFrombottom;
       margin-top: -260px;
     }
 
-    .mainindexconteiner .block2 {
+    .mainindexconteiner .cover2 {
       position: relative;
       z-index: 13;
       width: 49.1071428571%;
@@ -1619,7 +1495,7 @@ animation: 0.5s ease-out 1s 1 slideInFrombottom;
       margin-top: -260px;
     }
 
-    .mainindexconteiner .block3 {
+    .mainindexconteiner .cover3 {
       position: relative;
       z-index: 14;
       width: 48.9285714285%;
@@ -1628,7 +1504,7 @@ animation: 0.5s ease-out 1s 1 slideInFrombottom;
       margin-left: 51.07143%;
     }
 
-    .mainindexconteiner .block4 {
+    .mainindexconteiner .cover4 {
       position: relative;
       z-index: 15;
       width: 99.8214285714%;
@@ -1637,7 +1513,7 @@ animation: 0.5s ease-out 1s 1 slideInFrombottom;
       margin-left: 0;
     }
 
-    .mainindexconteiner .block5 {
+    .mainindexconteiner .cover5 {
       position: relative;
       z-index: 16;
       width: 99.8214285714%;
@@ -1645,7 +1521,7 @@ animation: 0.5s ease-out 1s 1 slideInFrombottom;
       margin-top: -260px;
     }
 
-    .mainindexconteiner .block6 {
+    .mainindexconteiner .cover6 {
       position: relative;
       z-index: 17;
       width: 48.9285714285%;
@@ -1653,7 +1529,7 @@ animation: 0.5s ease-out 1s 1 slideInFrombottom;
       margin-top: -260px;
     }
 
-    .mainindexconteiner .block7 {
+    .mainindexconteiner .cover7 {
       position: relative;
       z-index: 18;
       width: 48.9285714285%;
@@ -1662,7 +1538,7 @@ animation: 0.5s ease-out 1s 1 slideInFrombottom;
       margin-left: 51.06585%;
     }
 
-    .mainindexconteiner .block8 {
+    .mainindexconteiner .cover8 {
       position: relative;
       z-index: 19;
       width: 99.8214285714%;
@@ -1670,6 +1546,131 @@ animation: 0.5s ease-out 1s 1 slideInFrombottom;
       margin-top: -260px;
       margin-left: 0;
     }
+
+    .mainindexconteiner .prname1 {
+      position: relative;
+      z-index: 20;
+      margin-left: 3.90904%;
+    }
+
+    .mainindexconteiner .prname2 {
+      position: relative;
+      z-index: 21;
+      width: 58.5416666666%;
+      margin-left: 3.90904%;
+    }
+
+    .mainindexconteiner .prname3 {
+      position: relative;
+      z-index: 22;
+      margin-left: 53.5742199999%;
+    }
+
+    .mainindexconteiner .prname4 {
+      position: relative;
+      z-index: 23;
+      margin-left: 3.90904%;
+    }
+
+    .mainindexconteiner .prname5 {
+      position: relative;
+      z-index: 24;
+      margin-left: 3.99833%;
+    }
+
+    .mainindexconteiner .prname6 {
+      position: relative;
+      z-index: 25;
+      width: 39.8214285714%;
+      margin-top: -107px;
+      margin-left: 3.90904%;
+    }
+
+    .mainindexconteiner .prname7 {
+      position: relative;
+      clear: both;
+      z-index: 26;
+      width: 59.7916666666%;
+      margin-top: -107px;
+      margin-left: 54.99442%;
+    }
+
+    .mainindexconteiner .prname8 {
+      position: relative;
+      z-index: 27;
+      margin-left: 3.99833%;
+    }
+
+    .mainindexconteiner .block1 {
+        position: relative;
+        z-index: 12;
+        width: 100%;
+        height: 260px;
+        margin-top: -260px;
+      }
+
+      .mainindexconteiner .block2 {
+        position: relative;
+        z-index: 13;
+        width: 49.1071428571%;
+        height: 260px;
+        margin-top: -260px;
+      }
+
+      .mainindexconteiner .block3 {
+        position: relative;
+        z-index: 14;
+        width: 48.9285714285%;
+        height: 260px;
+        margin-top: -260px;
+        margin-left: 51.07143%;
+      }
+
+      .mainindexconteiner .block4 {
+        position: relative;
+        z-index: 15;
+        width: 99.8214285714%;
+        height: 260px;
+        margin-top: -260px;
+        margin-left: 0;
+      }
+
+      .mainindexconteiner .block5 {
+        position: relative;
+        z-index: 16;
+        width: 99.8214285714%;
+        height: 260px;
+        margin-top: -260px;
+      }
+
+      .mainindexconteiner .block6 {
+        position: relative;
+        z-index: 17;
+        width: 48.9285714285%;
+        height: 260px;
+        margin-top: -260px;
+      }
+
+      .mainindexconteiner .block7 {
+        position: relative;
+        z-index: 18;
+        width: 48.9285714285%;
+        height: 260px;
+        margin-top: -260px;
+        margin-left: 51.06585%;
+      }
+
+      .mainindexconteiner .block8 {
+        position: relative;
+        z-index: 19;
+        width: 99.8214285714%;
+        height: 260px;
+        margin-top: -260px;
+        margin-left: 0;
+      }
+}
+
+
 
 @media(max-width: 480px) {
   body {
@@ -1803,139 +1804,18 @@ animation: 0.5s ease-out 1s 1 slideInFrombottom;
     z-index: 30;
     margin-top: 100px;
   }
-}
-
-.mainindexconteiner .cover1 {
-    position: relative;
-    z-index: 12;
-  }
-
-  .mainindexconteiner .cover2 {
-    position: relative;
-    z-index: 13;
-    width: 100%;
-  }
-
-  .mainindexconteiner .cover3 {
-    position: relative;
-    z-index: 14;
-    width: 100%;
-    margin-top: 17px;
-    margin-left: 0;
-  }
-
-  .mainindexconteiner .cover4 {
-    position: relative;
-    z-index: 15;
-    width: 100%;
-  }
-
-  .mainindexconteiner .cover5 {
-    position: relative;
-    z-index: 16;
-    width: 100%;
-  }
-
-  .mainindexconteiner .cover6 {
-    position: relative;
-    z-index: 17;
-    width: 100%;
-  }
-
-  .mainindexconteiner .cover7 {
-    position: relative;
-    clear: both;
-    z-index: 18;
-    width: 100%;
-    margin-left: 0;
-  }
-
-  .mainindexconteiner .cover8 {
-    position: relative;
-    z-index: 19;
-    width: 100%;
-  }
-
-  .mainindexconteiner .prname1 {
-    position: relative;
-    z-index: 20;
-    width: 63.9583333333%;
-    margin-top: -60px;
-    margin-left: 3.125%;
-    font-size: 16px;
-  }
-
-  .mainindexconteiner .prname2 {
-    position: relative;
-    z-index: 21;
-    margin-top: -60px;
-    margin-left: 3.125%;
-    font-size: 16px;
-  }
-
-  .mainindexconteiner .prname3 {
-    position: relative;
-    z-index: 22;
-    width: 67.0833333333%;
-    margin-top: -60px;
-    margin-left: 3.125%;
-    font-size: 16px;
-  }
-
-  .mainindexconteiner .prname4 {
-    position: relative;
-    z-index: 23;
-    margin-top: -60px;
-    margin-left: 3.125%;
-    font-size: 16px;
-  }
-
-  .mainindexconteiner .prname5 {
-    position: relative;
-    z-index: 24;
-    margin-top: -60px;
-    margin-left: 3.125%;
-    font-size: 16px;
-  }
-
-  .mainindexconteiner .prname6 {
-    position: relative;
-    z-index: 25;
-    width: 57.7083333333%;
-    margin-top: -60px;
-    margin-left: 3.125%;
-    font-size: 16px;
-  }
-
-  .mainindexconteiner .prname7 {
-    position: relative;
-    clear: none;
-    z-index: 26;
-    margin-top: -60px;
-    margin-left: 3.125%;
-    font-size: 16px;
-  }
-
-  .mainindexconteiner .prname8 {
-    position: relative;
-    z-index: 27;
-    margin-top: -38px;
-    margin-left: 3.125%;
-    font-size: 16px;
-  }
-
-  .mainindexconteiner .block1 {
+  .mainindexconteiner .cover1 {
       position: relative;
       z-index: 12;
     }
 
-  .mainindexconteiner .block2 {
+    .mainindexconteiner .cover2 {
       position: relative;
       z-index: 13;
       width: 100%;
     }
 
-  .mainindexconteiner .block3 {
+    .mainindexconteiner .cover3 {
       position: relative;
       z-index: 14;
       width: 100%;
@@ -1943,25 +1823,25 @@ animation: 0.5s ease-out 1s 1 slideInFrombottom;
       margin-left: 0;
     }
 
-  .mainindexconteiner .block4 {
+    .mainindexconteiner .cover4 {
       position: relative;
       z-index: 15;
       width: 100%;
     }
 
-  .mainindexconteiner .block5 {
+    .mainindexconteiner .cover5 {
       position: relative;
       z-index: 16;
       width: 100%;
     }
 
-  .mainindexconteiner .block6 {
+    .mainindexconteiner .cover6 {
       position: relative;
       z-index: 17;
       width: 100%;
     }
 
-  .mainindexconteiner .block7 {
+    .mainindexconteiner .cover7 {
       position: relative;
       clear: both;
       z-index: 18;
@@ -1969,11 +1849,133 @@ animation: 0.5s ease-out 1s 1 slideInFrombottom;
       margin-left: 0;
     }
 
-  .mainindexconteiner .block8 {
+    .mainindexconteiner .cover8 {
       position: relative;
       z-index: 19;
       width: 100%;
     }
+
+    .mainindexconteiner .prname1 {
+      position: relative;
+      z-index: 20;
+      width: 63.9583333333%;
+      margin-top: -60px;
+      margin-left: 3.125%;
+      font-size: 16px;
+    }
+
+    .mainindexconteiner .prname2 {
+      position: relative;
+      z-index: 21;
+      margin-top: -60px;
+      margin-left: 3.125%;
+      font-size: 16px;
+    }
+
+    .mainindexconteiner .prname3 {
+      position: relative;
+      z-index: 22;
+      width: 67.0833333333%;
+      margin-top: -60px;
+      margin-left: 3.125%;
+      font-size: 16px;
+    }
+
+    .mainindexconteiner .prname4 {
+      position: relative;
+      z-index: 23;
+      margin-top: -60px;
+      margin-left: 3.125%;
+      font-size: 16px;
+    }
+
+    .mainindexconteiner .prname5 {
+      position: relative;
+      z-index: 24;
+      margin-top: -60px;
+      margin-left: 3.125%;
+      font-size: 16px;
+    }
+
+    .mainindexconteiner .prname6 {
+      position: relative;
+      z-index: 25;
+      width: 57.7083333333%;
+      margin-top: -60px;
+      margin-left: 3.125%;
+      font-size: 16px;
+    }
+
+    .mainindexconteiner .prname7 {
+      position: relative;
+      clear: none;
+      z-index: 26;
+      margin-top: -60px;
+      margin-left: 3.125%;
+      font-size: 16px;
+    }
+
+    .mainindexconteiner .prname8 {
+      position: relative;
+      z-index: 27;
+      margin-top: -38px;
+      margin-left: 3.125%;
+      font-size: 16px;
+    }
+
+    .mainindexconteiner .block1 {
+        position: relative;
+        z-index: 12;
+      }
+
+    .mainindexconteiner .block2 {
+        position: relative;
+        z-index: 13;
+        width: 100%;
+      }
+
+    .mainindexconteiner .block3 {
+        position: relative;
+        z-index: 14;
+        width: 100%;
+        margin-top: 17px;
+        margin-left: 0;
+      }
+
+    .mainindexconteiner .block4 {
+        position: relative;
+        z-index: 15;
+        width: 100%;
+      }
+
+    .mainindexconteiner .block5 {
+        position: relative;
+        z-index: 16;
+        width: 100%;
+      }
+
+    .mainindexconteiner .block6 {
+        position: relative;
+        z-index: 17;
+        width: 100%;
+      }
+
+    .mainindexconteiner .block7 {
+        position: relative;
+        clear: both;
+        z-index: 18;
+        width: 100%;
+        margin-left: 0;
+      }
+
+    .mainindexconteiner .block8 {
+        position: relative;
+        z-index: 19;
+        width: 100%;
+      }
+}
+
+
 
 @media(max-width: 320px) {
   .burger {
@@ -2098,139 +2100,138 @@ animation: 0.5s ease-out 1s 1 slideInFrombottom;
     z-index: 30;
     width: 108.69140625%;
   }
-}
+  .mainindexconteiner .cover1 {
+    position: relative;
+    z-index: 12;
+  }
 
-.mainindexconteiner .cover1 {
-  position: relative;
-  z-index: 12;
-}
+  .mainindexconteiner .cover2 {
+    position: relative;
+    z-index: 13;
+  }
 
-.mainindexconteiner .cover2 {
-  position: relative;
-  z-index: 13;
-}
+  .mainindexconteiner .cover3 {
+    position: relative;
+    z-index: 14;
+    margin-top: 15px;
+  }
 
-.mainindexconteiner .cover3 {
-  position: relative;
-  z-index: 14;
-  margin-top: 15px;
-}
+  .mainindexconteiner .cover4 {
+    position: relative;
+    z-index: 15;
+  }
 
-.mainindexconteiner .cover4 {
-  position: relative;
-  z-index: 15;
-}
+  .mainindexconteiner .cover5 {
+    position: relative;
+    z-index: 16;
+  }
 
-.mainindexconteiner .cover5 {
-  position: relative;
-  z-index: 16;
-}
+  .mainindexconteiner .cover6 {
+    position: relative;
+    z-index: 17;
+  }
 
-.mainindexconteiner .cover6 {
-  position: relative;
-  z-index: 17;
-}
+  .mainindexconteiner .cover7 {
+    position: relative;
+    z-index: 18;
+  }
 
-.mainindexconteiner .cover7 {
-  position: relative;
-  z-index: 18;
-}
+  .mainindexconteiner .cover8 {
+    position: relative;
+    z-index: 19;
+  }
 
-.mainindexconteiner .cover8 {
-  position: relative;
-  z-index: 19;
-}
+  .mainindexconteiner .prname1 {
+    position: relative;
+    z-index: 20;
+    margin-left: 6.25%;
+  }
 
-.mainindexconteiner .prname1 {
-  position: relative;
-  z-index: 20;
-  margin-left: 6.25%;
-}
+  .mainindexconteiner .prname2 {
+    position: relative;
+    z-index: 21;
+    width: 87.1875%;
+    margin-left: 6.25%;
+  }
 
-.mainindexconteiner .prname2 {
-  position: relative;
-  z-index: 21;
-  width: 87.1875%;
-  margin-left: 6.25%;
-}
+  .mainindexconteiner .prname3 {
+    position: relative;
+    z-index: 22;
+    margin-left: 6.25%;
+  }
 
-.mainindexconteiner .prname3 {
-  position: relative;
-  z-index: 22;
-  margin-left: 6.25%;
-}
+  .mainindexconteiner .prname4 {
+    position: relative;
+    z-index: 23;
+    width: 68.4375%;
+    margin-left: 6.25%;
+  }
 
-.mainindexconteiner .prname4 {
-  position: relative;
-  z-index: 23;
-  width: 68.4375%;
-  margin-left: 6.25%;
-}
+  .mainindexconteiner .prname5 {
+    position: relative;
+    z-index: 24;
+    width: 85.9375%;
+    margin-left: 6.25%;
+  }
 
-.mainindexconteiner .prname5 {
-  position: relative;
-  z-index: 24;
-  width: 85.9375%;
-  margin-left: 6.25%;
-}
+  .mainindexconteiner .prname6 {
+    position: relative;
+    z-index: 25;
+    width: 79.6875%;
+    margin-left: 6.25%;
+  }
 
-.mainindexconteiner .prname6 {
-  position: relative;
-  z-index: 25;
-  width: 79.6875%;
-  margin-left: 6.25%;
-}
+  .mainindexconteiner .prname7 {
+    position: relative;
+    z-index: 26;
+    width: 79.6875%;
+    margin-left: 6.25%;
+  }
 
-.mainindexconteiner .prname7 {
-  position: relative;
-  z-index: 26;
-  width: 79.6875%;
-  margin-left: 6.25%;
-}
+  .mainindexconteiner .prname8 {
+    position: relative;
+    z-index: 27;
+    margin-left: 6.25%;
+  }
 
-.mainindexconteiner .prname8 {
-  position: relative;
-  z-index: 27;
-  margin-left: 6.25%;
-}
+  .mainindexconteiner .block1 {
+    position: relative;
+    z-index: 12;
+  }
 
-.mainindexconteiner .block1 {
-  position: relative;
-  z-index: 12;
-}
+  .mainindexconteiner .block2 {
+    position: relative;
+    z-index: 13;
+  }
 
-.mainindexconteiner .block2 {
-  position: relative;
-  z-index: 13;
-}
+  .mainindexconteiner .block3 {
+    position: relative;
+    z-index: 14;
+    margin-top: 15px;
+  }
 
-.mainindexconteiner .block3 {
-  position: relative;
-  z-index: 14;
-  margin-top: 15px;
-}
+  .mainindexconteiner .block4 {
+    position: relative;
+    z-index: 15;
+  }
 
-.mainindexconteiner .block4 {
-  position: relative;
-  z-index: 15;
-}
+  .mainindexconteiner .block5 {
+    position: relative;
+    z-index: 16;
+  }
 
-.mainindexconteiner .block5 {
-  position: relative;
-  z-index: 16;
-}
+  .mainindexconteiner .block6 {
+    position: relative;
+    z-index: 17;
+  }
 
-.mainindexconteiner .block6 {
-  position: relative;
-  z-index: 17;
-}
+  .mainindexconteiner .block7 {
+    position: relative;
+    z-index: 18;
+  }
 
-.mainindexconteiner .block7 {
-  position: relative;
-  z-index: 18;
-}
-
-.mainindexconteiner .block8 {
-  position: relative;
-  z-index: 19;
+  .mainindexconteiner .block8 {
+    position: relative;
+    z-index: 19;
+  }
 }
