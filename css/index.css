@@ -136,7 +136,7 @@ body {
   height: 345px;
   margin: -345px 0 0 10.28745%;
   background-color: rgb(1, 0, 3);
-  opacity: 1;
+  opacity: 0.8;
   cursor: pointer;
 }
 
@@ -149,7 +149,7 @@ body {
   height: 345px;
   margin: -345px 0 0 10.28745%;
   background-color: rgb(1, 0, 3);
-  opacity: 1;
+  opacity: 0.8;
   cursor: pointer;
 }
 
@@ -161,7 +161,7 @@ body {
   height: 345px;
   margin: -345px 0 0 51.20526%;
   background-color: rgb(1, 0, 3);
-  opacity: 1;
+  opacity: 0.8;
   cursor: pointer;
 }
 
@@ -174,7 +174,7 @@ body {
   height: 345px;
   margin: -345px 0 0 30.67746%;
   background-color: rgb(1, 0, 3);
-  opacity: 1;
+  opacity: 0.8;
   cursor: pointer;
 }
 
@@ -187,7 +187,7 @@ body {
   height: 345px;
   margin: -345px 0 0 10.25954%;
   background-color: rgb(1, 0, 3);
-  opacity: 1;
+  opacity: 0.8;
   cursor: pointer;
 }
 
@@ -200,7 +200,7 @@ body {
   height: 345px;
   margin: -345px 0 0 10.28745%;
   background-color: rgb(1, 0, 3);
-  opacity: 1;
+  opacity: 0.8;
   cursor: pointer;
 }
 
@@ -212,7 +212,7 @@ body {
   height: 345px;
   margin: -345px 0 0 51.21747%;
   background-color: rgb(1, 0, 3);
-  opacity: 1;
+  opacity: 0.8;
   cursor: pointer;
 }
 
@@ -225,7 +225,7 @@ body {
   height: 345px;
   margin: -345px 0 0 30.67746%;
   background-color: rgb(1, 0, 3);
-  opacity: 1;
+  opacity: 0.8;
   cursor: pointer;
 }
 
@@ -1415,13 +1415,13 @@ animation: 0.5s ease-out 1s 1 slideInFrombottom;
   }
 
   .titlecontainer .titletext {
-    width: 84.8970251716%;
+    width: 300px;
     font-size: 1.625em;
   }
 
   .mainindexconteiner .projectlist-1 {
     width: 100%;
-    margin-top: 47px;
+    margin-top: 60px;
   }
 
   .mainindexconteiner .projectlist-2 {
@@ -1435,8 +1435,8 @@ animation: 0.5s ease-out 1s 1 slideInFrombottom;
     position: relative;
     z-index: 6;
     width: 48.9285714285%;
-    margin-top: 14px;
-    margin-left: 2.14286%;
+    margin-top: -260px;
+    margin-left: 51.07143%;
   }
 
   .mainindexconteiner .projectlist-5 {
@@ -1454,7 +1454,8 @@ animation: 0.5s ease-out 1s 1 slideInFrombottom;
     position: relative;
     z-index: 10;
     width: 48.9285714285%;
-    margin-left: 2.14286%;
+    margin-left: 51.06585%;
+    margin-top: -260px
   }
 
   .mainindexconteiner .projectlist-4,
@@ -1560,54 +1561,67 @@ animation: 0.5s ease-out 1s 1 slideInFrombottom;
       position: relative;
       z-index: 20;
       margin-left: 3.90904%;
+      font-size: 18px;
+      margin-top: -65px;
     }
 
     .mainindexconteiner .prname2 {
       position: relative;
       z-index: 21;
-      width: 58.5416666666%;
       margin-left: 3.90904%;
+      width: 160px;
+      font-size: 18px;
+      margin-top: -92px;
     }
 
     .mainindexconteiner .prname3 {
       position: relative;
       z-index: 22;
-      margin-left: 53.5742199999%;
+      width: 185px;
+      font-size: 18px;
+      margin-top: -92px;
     }
 
     .mainindexconteiner .prname4 {
       position: relative;
       z-index: 23;
       margin-left: 3.90904%;
+      font-size: 18px;
+      margin-top: -65px;
     }
 
     .mainindexconteiner .prname5 {
       position: relative;
       z-index: 24;
       margin-left: 3.99833%;
+      font-size: 18px;
+      margin-top: -65px;
     }
 
     .mainindexconteiner .prname6 {
       position: relative;
       z-index: 25;
-      width: 39.8214285714%;
-      margin-top: -107px;
+      margin-top: -92px;
       margin-left: 3.90904%;
+      font-size: 18px;
     }
 
     .mainindexconteiner .prname7 {
       position: relative;
       clear: both;
       z-index: 26;
-      width: 59.7916666666%;
-      margin-top: -107px;
+      width: 170px;;
+      margin-top: -92px;
       margin-left: 54.99442%;
+      font-size: 18px;
     }
 
     .mainindexconteiner .prname8 {
       position: relative;
       z-index: 27;
       margin-left: 3.99833%;
+      font-size: 18px;
+      margin-top: -38px;
     }
 
     .mainindexconteiner .block1 {
@@ -1737,7 +1751,7 @@ animation: 0.5s ease-out 1s 1 slideInFrombottom;
   }
 
   .titlecontainer .titletext {
-    width: 63.3333333333%;
+    width: 250px;
     font-size: 1.25em;
   }
 
@@ -1757,7 +1771,7 @@ animation: 0.5s ease-out 1s 1 slideInFrombottom;
     clear: both;
     z-index: 6;
     width: 100%;
-    margin-top: 15px;
+    margin-top: -266px;
     margin-left: 0;
   }
 
