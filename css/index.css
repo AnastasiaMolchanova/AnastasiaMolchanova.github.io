@@ -1771,7 +1771,6 @@ animation: 0.5s ease-out 1s 1 slideInFrombottom;
     clear: both;
     z-index: 6;
     width: 100%;
-    margin-top: -266px;
     margin-left: 0;
   }
 
