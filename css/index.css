@@ -41,168 +41,108 @@ body {
 }
 
 .block1 {
+  position: relative;
   float: left;
   clear: both;
-  width: 79.4512663085%;
+  z-index: 12;
+  width: 79.4809181608%;
   height: 345px;
-  margin: 100px 0 0 10.28745%;
+  margin: -345px 0 0 10.28745%;
+  opacity: 0;
   cursor: pointer;
-}
 
-.block1 .projectlist {
-  z-index: 4;
-  width: 100.0373208052%;
-  margin-left: -0.03732%;
-  background-image: url('../images/Web-Showcase.jpg');
-  background-size: 160% auto;
-  background-position: 50% 40%;
 }
 
 .block2 {
   position: relative;
   float: left;
   clear: both;
-  z-index: 11;
+  z-index: 13;
   width: 38.512523547%;
   height: 345px;
-  margin: 20px 0 0 10.28745%;
+  margin: -345px 0 0 10.28745%;
+  opacity: 0;
   cursor: pointer;
-}
-
-.block2 .projectlist {
-  z-index: 8;
-  width: 100%;
-  margin-left: -0.1087%;
-  background-image: url('../images/mock%20up%20concrete%202.jpg');
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: 40% 50%;
 }
 
 .block3 {
   position: relative;
   float: left;
-  z-index: 15;
-  width: 48.8153212865%;
+  z-index: 14;
+  width: 48.7825298262%;
   height: 345px;
-  margin: 20px 0 0 2.38436%;
+  margin: -345px 0 0 51.20526%;
+  opacity: 0;
   cursor: pointer;
-}
-
-.block3 .projectlist {
-  clear: both;
-  z-index: 12;
-  width: 99.9356821267%;
-  margin-top: -345px;
-  background-image: url('../images/12563.jpg');
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center center;
 }
 
 .block4 {
+  position: relative;
   float: left;
   clear: both;
+  z-index: 15;
   width: 69.3225423847%;
   height: 345px;
-  margin: 20px 0 0 30.67746%;
+  margin: -345px 0 0 30.67746%;
+  opacity: 0;
   cursor: pointer;
-}
-
-.block4 .projectlist {
-  z-index: 16;
-  width: 100%;
-  margin-left: -0.04529%;
-  background-image: url('../images/project1@x.png');
-  background-size: cover;
-  background-position: center center;
 }
 
 .block5 {
+  position: relative;
   float: left;
   clear: both;
-  width: 79.5702225633%;
+  z-index: 16;
+  width: 79.4809181608%;
   height: 345px;
-  margin: 20px 0 0 10.21245%;
+  margin: -345px 0 0 10.25954%;
+  opacity: 0;
   cursor: pointer;
-}
-
-.block5 .projectlist {
-  z-index: 20;
-  width: 99.8882044762%;
-  margin-left: 0.03946%;
-  background-image: url('../images/%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0.jpg');
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center center;
 }
 
 .block6 {
   position: relative;
   float: left;
   clear: both;
-  z-index: 27;
-  width: 38.512523547%;
+  z-index: 17;
+  width: 38.4706621084%;
   height: 345px;
-  margin: 20px 0 0 10.2578%;
+  margin: -345px 0 0 10.28745%;
+  opacity: 0;
   cursor: pointer;
-}
-
-.block6 .projectlist {
-  z-index: 24;
-  width: 100.1088139281%;
-  margin-left: -0.1087%;
-  background-image: url('../images/iphone6-mockup-2.jpg');
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: 40% 50%;
 }
 
 .block7 {
   position: relative;
   float: left;
-  z-index: 31;
+  z-index: 18;
   width: 48.7825298262%;
   height: 345px;
-  margin: 20px 0 0 2.44715%;
+  margin: -345px 0 0 51.21747%;
+  opacity: 0;
   cursor: pointer;
-}
-
-.block7 .projectlist {
-  z-index: 28;
-  width: 99.9356821267%;
-  margin-left: -0.00358%;
-  background-image: url('../images/%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0%20fashion.jpg');
-  background-repeat: no-repeat;
-  background-size: auto 110%;
-  background-position: center center;
 }
 
 .block8 {
+  position: relative;
   float: left;
   clear: both;
-  width: 69.3553338449%;
+  z-index: 19;
+  width: 69.3225423847%;
   height: 345px;
-  margin: 20px 0 0 30.64606%;
+  margin: -345px 0 0 30.67746%;
+  opacity: 0;
   cursor: pointer;
-}
-
-.block8 .projectlist {
-  z-index: 32;
-  width: 99.9547306473%;
-  background-image: url('../images/%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0%20%D0%BB%D0%BE%D0%B3%D0%BE.jpg');
-  background-size: cover;
-  background-position: 50% 40%;
 }
 
 .cover1 {
   position: relative;
   float: left;
   clear: both;
-  z-index: 5;
-  width: 100%;
+  z-index: 12;
+  width: 79.4809181608%;
   height: 345px;
-  margin: -345px 0 0 0;
+  margin: -345px 0 0 10.28745%;
   background-color: rgb(1, 0, 3);
   opacity: 0.4;
   cursor: pointer;
@@ -212,10 +152,10 @@ body {
   position: relative;
   float: left;
   clear: both;
-  z-index: 9;
-  width: 100%;
+  z-index: 13;
+  width: 38.512523547%;
   height: 345px;
-  margin: -345px 0 0 0;
+  margin: -345px 0 0 10.28745%;
   background-color: rgb(1, 0, 3);
   opacity: 0.4;
   cursor: pointer;
@@ -224,10 +164,10 @@ body {
 .cover3 {
   position: relative;
   float: left;
-  z-index: 13;
-  width: 100%;
+  z-index: 14;
+  width: 48.7825298262%;
   height: 345px;
-  margin: -345px 0 0 0;
+  margin: -345px 0 0 51.20526%;
   background-color: rgb(1, 0, 3);
   opacity: 0.4;
   cursor: pointer;
@@ -237,10 +177,10 @@ body {
   position: relative;
   float: left;
   clear: both;
-  z-index: 17;
-  width: 100%;
+  z-index: 15;
+  width: 69.3225423847%;
   height: 345px;
-  margin: -345px 0 0 0;
+  margin: -345px 0 0 30.67746%;
   background-color: rgb(1, 0, 3);
   opacity: 0.4;
   cursor: pointer;
@@ -250,10 +190,10 @@ body {
   position: relative;
   float: left;
   clear: both;
-  z-index: 21;
-  width: 100%;
+  z-index: 16;
+  width: 79.4809181608%;
   height: 345px;
-  margin: -345px 0 0 0;
+  margin: -345px 0 0 10.25954%;
   background-color: rgb(1, 0, 3);
   opacity: 0.4;
   cursor: pointer;
@@ -263,10 +203,10 @@ body {
   position: relative;
   float: left;
   clear: both;
-  z-index: 25;
-  width: 100%;
+  z-index: 17;
+  width: 38.4706621084%;
   height: 345px;
-  margin: -345px 0 0 0;
+  margin: -345px 0 0 10.28745%;
   background-color: rgb(1, 0, 3);
   opacity: 0.4;
   cursor: pointer;
@@ -275,10 +215,10 @@ body {
 .cover7 {
   position: relative;
   float: left;
-  z-index: 29;
-  width: 100%;
+  z-index: 18;
+  width: 48.7825298262%;
   height: 345px;
-  margin: -345px 0 0 0;
+  margin: -345px 0 0 51.21747%;
   background-color: rgb(1, 0, 3);
   opacity: 0.4;
   cursor: pointer;
@@ -288,10 +228,10 @@ body {
   position: relative;
   float: left;
   clear: both;
-  z-index: 33;
-  width: 100%;
+  z-index: 19;
+  width: 69.3225423847%;
   height: 345px;
-  margin: -345px 0 0 0;
+  margin: -345px 0 0 30.67746%;
   background-color: rgb(1, 0, 3);
   opacity: 0.4;
   cursor: pointer;
@@ -587,6 +527,99 @@ animation: 0.5s ease-out 1s 1 slideInFrombottom;
   margin-top: 66px;
 }
 
+.projectlist-1{
+  clear: both;
+  width: 79.4809181608%;
+  margin: 100px 0 0 10.28745%;
+  background-image: url('../images/Web-Showcase.jpg');
+  background-size: 160% auto;
+  background-position: 50% 40%;
+  cursor: pointer;
+}
+
+
+.projectlist-2 {
+  position: relative;
+  clear: both;
+  z-index: 5;
+  width: 38.512523547%;
+  margin: 20px 0 0 10.24559%;
+  background-image: url('../images/mock%20up%20concrete%202.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 40% 50%;
+  cursor: pointer;
+}
+
+.projectlist-3 {
+  position: relative;
+  z-index: 6;
+  width: 48.7825298262%;
+  margin: -345px 0 0 51.20526%;
+  background-image: url('../images/12563.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  cursor: pointer;
+}
+
+.projectlist-4 {
+  clear: both;
+  width: 69.3225423847%;
+  margin: 20px 0 0 30.67746%;
+  background-image: url('../images/project1@x.png');
+  background-size: cover;
+  background-position: center center;
+  cursor: pointer;
+}
+
+.projectlist-5 {
+  clear: both;
+  width: 79.4809181608%;
+  margin: 20px 0 0 10.24559%;
+  background-image: url('../images/%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  cursor: pointer;
+}
+
+.projectlist-6 {
+  position: relative;
+  clear: both;
+  z-index: 9;
+  width: 38.512523547%;
+  margin: 20px 0 0 10.24559%;
+  background-image: url('../images/iphone6-mockup-2.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 40% 50%;
+  cursor: pointer;
+}
+
+
+.projectlist-7 {
+  position: relative;
+  z-index: 10;
+  width: 48.7825298262%;
+  margin: -345px 0 0 51.21747%;
+  background-image: url('../images/%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0%20fashion.jpg');
+  background-repeat: no-repeat;
+  background-size: auto 110%;
+  background-position: center center;
+  cursor: pointer;
+  margin: -345px 0 0 51.21747%;
+}
+
+.projectlist-8 {
+  clear: both;
+  width: 69.3225423847%;
+  margin: 20px 0 0 30.67746%;
+  background-image: url('../images/%D0%BE%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0%20%D0%BB%D0%BE%D0%B3%D0%BE.jpg');
+  background-size: cover;
+  background-position: 50% 40%;
+  cursor: pointer;
+}
 
 
 .text-2 {
@@ -654,6 +687,9 @@ animation: 0.5s ease-out 1s 1 slideInFrombottom;
     margin-left: 14.16016%;
   }
 
+  .mainindexconteiner .projectlist {
+    height: 300px;
+  }
 
   .mainindexconteiner .titlecontainer {
     width: 74.4217687074%;
@@ -714,141 +750,58 @@ animation: 0.5s ease-out 1s 1 slideInFrombottom;
     height: 70px;
   }
 
-  .block1 .cover1 {
-    position: relative;
-    z-index: 5;
-    width: 100%;
-    height: 284px;
-    margin-top: -284px;
-    margin-left: 0;
-    background-color: rgba(1, 0, 3, 0.39);
-  }
-
-  .block1 .projectlist {
-    position: relative;
+  .mainindexconteiner .projectlist-1 {
     z-index: 4;
-    width: 100%;
-    height: 284px;
+    width: 87.2108843537%;
+    margin-top: 80px;
     margin-left: 0;
   }
 
-  .block2 .cover2 {
-    position: relative;
+  .mainindexconteiner .projectlist-2 {
+    clear: both;
+    z-index: 5;
+    width: 48.8435374149%;
+    margin-left: -0.09779%;
+  }
+
+  .mainindexconteiner .projectlist-3 {
+    z-index: 6;
+    width: 48.8435374149%;
+    margin-top: -300px;
+    margin-left: 51.14796%;
+  }
+
+  .mainindexconteiner .projectlist-4 {
+    z-index: 7;
+    width: 74.4217687074%;
+    margin-left: 25.57611%;
+  }
+
+  .mainindexconteiner .projectlist-5 {
+    z-index: 8;
+    width: 87.3469387755%;
+    margin-left: 0;
+  }
+
+  .mainindexconteiner .projectlist-6 {
+    clear: both;
     z-index: 9;
-    height: 300px;
+    width: 48.7074829931%;
+    margin-left: -0.09779%;
+  }
+
+  .mainindexconteiner .projectlist-7 {
+    z-index: 10;
+    width: 48.8435374149%;
     margin-top: -300px;
-    background-color: rgba(1, 0, 3, 0.39);
+    margin-left: 51.15434%;
   }
 
-  .block2 .projectlist {
-  position: relative;
-  z-index: 8;
-  height: 300px;
-  margin-left: 0;
-}
-
-.block3 .cover3 {
-  position: relative;
-  z-index: 13;
-  width: 100.0609702987%;
-  height: 300px;
-  margin-left: -0.06093%;
-  background-color: rgba(1, 0, 3, 0.39);
-}
-
-.block3 .projectlist {
-    position: relative;
-    z-index: 12;
-    width: 100.0609702987%;
-    height: 300px;
-    margin-top: -300px;
-    margin-left: -0.06093%;
+  .mainindexconteiner .projectlist-8 {
+    z-index: 11;
+    width: 74.4217687074%;
+    margin-left: 25.57611%;
   }
-
-  .block4 .cover4 {
-    position: relative;
-    z-index: 17;
-    height: 300px;
-    margin-top: -300px;
-    margin-left: 0;
-    background-color: rgba(1, 0, 3, 0.39);
-  }
-
-  .block4 .projectlist {
-    position: relative;
-    z-index: 16;
-    height: 300px;
-    margin-left: 0;
-  }
-
-  .block5 .cover5 {
-    position: relative;
-    z-index: 21;
-    width: 100.1560062402%;
-    height: 300px;
-    margin-top: -300px;
-    margin-left: -0.15601%;
-    background-color: rgba(1, 0, 3, 0.39);
-  }
-
-  .block5 .projectlist {
-      position: relative;
-      z-index: 20;
-      width: 100%;
-      height: 300px;
-      margin-left: -0.00244%;
-    }
-
-    .block6 .cover6 {
-      position: relative;
-      z-index: 25;
-      height: 300px;
-      margin-top: -300px;
-      background-color: rgba(1, 0, 3, 0.39);
-    }
-
-    .block6 .projectlist {
-    position: relative;
-    z-index: 24;
-    width: 100%;
-    height: 300px;
-    margin-left: 0;
-  }
-
-  .block7 .cover7 {
-    position: relative;
-    z-index: 29;
-    width: 100.1263781757%;
-    height: 300px;
-    margin-top: -300px;
-    margin-left: -0.12608%;
-    background-color: rgba(1, 0, 3, 0.39);
-  }
-
-  .block7 .projectlist {
-  position: relative;
-  z-index: 28;
-  width: 100.0609702987%;
-  height: 300px;
-  margin-left: -0.06087%;
-}
-
-.block8 .cover8 {
-  position: relative;
-  z-index: 33;
-  width: 100%;
-  height: 300px;
-  margin-top: -300px;
-  background-color: rgba(1, 0, 3, 0.39);
-}
-
-.block8 .projectlist {
-  position: relative;
-  z-index: 32;
-  width: 100%;
-  height: 300px;
-}
-
 
   .menucont .menutext-1 {
     margin-top: 125px;
@@ -885,78 +838,221 @@ animation: 0.5s ease-out 1s 1 slideInFrombottom;
   }
 
 
-.block1 .prname1 {
+  .mainindexconteiner .cover1 {
+    position: relative;
+    z-index: 12;
+    width: 87.2108843537%;
+    height: 300px;
+    margin-top: -300px;
+    margin-left: 0;
+}
+
+  .mainindexconteiner .cover2 {
+    position: relative;
+    z-index: 13;
+    width: 48.7074829931%;
+    height: 300px;
+    margin-top: -300px;
+    margin-left: 0;
+}
+
+  .mainindexconteiner .cover3 {
+    position: relative;
+    z-index: 14;
+    width: 48.8435374149%;
+    height: 300px;
+    margin-top: -300px;
+    margin-left: 51.15434%;
+}
+
+  .mainindexconteiner .cover4 {
+    position: relative;
+    z-index: 15;
+    width: 74.2857142857%;
+    height: 300px;
+    margin-top: -300px;
+    margin-left: 25.57611%;
+}
+
+  .mainindexconteiner .cover5 {
+    position: relative;
+    z-index: 16;
+    width: 87.3469387755%;
+    height: 300px;
+    margin-top: -300px;
+    margin-left: 0;
+}
+
+  .mainindexconteiner .cover6 {
+    position: relative;
+    z-index: 17;
+    width: 48.8435374149%;
+    height: 300px;
+    margin-top: -300px;
+    margin-left: -0.13393%;
+}
+
+.mainindexconteiner .cover7 {
   position: relative;
-  z-index: 6;
+  z-index: 18;
+  width: 48.8435374149%;
+  height: 300px;
+  margin-top: -300px;
+  margin-left: 51.15434%;
+}
+
+.mainindexconteiner .cover8 {
+  position: relative;
+  z-index: 19;
+  width: 74.2857142857%;
+  height: 300px;
+  margin-top: -300px;
+  margin-left: 25.57611%;
+}
+
+.mainindexconteiner .prname1 {
+  position: relative;
+  z-index: 20;
   width: 300px;
   margin-top: -80px;
   margin-left: 3.9966%;
   font-size: 20px;
 }
 
-.block2 .prname2 {
+.mainindexconteiner .prname2 {
   position: relative;
-  z-index: 10;
+  z-index: 21;
   width: 180px;
   margin-top: -107px;
   margin-left: 3.9966%;
   font-size: 20px;
 }
 
-.block3 .prname3 {
+.mainindexconteiner .prname3 {
   position: relative;
-  z-index: 14;
+  z-index: 22;
   width: 220px;
   margin-top: -107px;
   margin-left: 55%;
   font-size: 20px;
 }
 
-.block4 .prname4 {
+.mainindexconteiner .prname4 {
   position: relative;
-  z-index: 18;
+  z-index: 23;
   width: 250px;
   margin-top: -80px;
   margin-left: 30.06803%;
   font-size: 20px;
 }
 
-.block5 .prname5 {
+.mainindexconteiner .prname5 {
   position: relative;
-  z-index: 21;
+  z-index: 24;
   width: 284px;
   margin-top: -80px;
   margin-left: 3.94558%;
   font-size: 20px;
 }
 
-.block6 .prname6 {
+.mainindexconteiner .prname6 {
   position: relative;
-  z-index: 26;
+  z-index: 25;
   width: 200px;
   margin-top: -107px;
   margin-left: 3.94558%;
   font-size: 20px;
 }
 
-.block7 .prname7 {
+.mainindexconteiner .prname7 {
   position: relative;
-  z-index: 30;
+  z-index: 26;
   width: 180px;
   margin-top: -107px;
   margin-left: 54.96599%;
   font-size: 20px;
 }
 
-.block8 .prname8 {
+.mainindexconteiner .prname8 {
   position: relative;
-  z-index: 34;
+  z-index: 27;
   margin-top: -53px;
   margin-left: 30.06803%;
   font-size: 20px;
 }
 
+.mainindexconteiner .block1 {
+  position: relative;
+  z-index: 12;
+  width: 87.2108843537%;
+  height: 300px;
+  margin-top: -300px;
+  margin-left: 0;
+}
 
+.mainindexconteiner .block2 {
+  position: relative;
+  z-index: 13;
+  width: 48.7074829931%;
+  height: 300px;
+  margin-top: -300px;
+  margin-left: 0;
+}
+
+.mainindexconteiner .block3 {
+  position: relative;
+  z-index: 14;
+  width: 48.8435374149%;
+  height: 300px;
+  margin-top: -300px;
+  margin-left: 51.15434%;
+}
+
+.mainindexconteiner .block4 {
+  position: relative;
+  z-index: 15;
+  width: 74.2857142857%;
+  height: 300px;
+  margin-top: -300px;
+  margin-left: 25.53997%;
+ }
+
+.mainindexconteiner .block5 {
+  position: relative;
+  z-index: 16;
+  width: 87.3469387755%;
+  height: 300px;
+  margin-top: -300px;
+  margin-left: 0;
+ }
+
+.mainindexconteiner .block6 {
+  position: relative;
+  z-index: 17;
+  width: 48.8435374149%;
+  height: 300px;
+  margin-top: -300px;
+  margin-left: -0.13393%;
+ }
+
+.mainindexconteiner .block7 {
+  position: relative;
+  z-index: 18;
+  width: 48.8435374149%;
+  height: 300px;
+  margin-top: -300px;
+  margin-left: 51.15434%;
+ }
+
+.mainindexconteiner .block8 {
+  position: relative;
+  z-index: 19;
+  width: 74.2857142857%;
+  height: 300px;
+  margin-top: -300px;
+  margin-left: 25.57611%;
+ }
+}
 
 @media(max-width: 768px) {
   body {
@@ -983,121 +1079,9 @@ animation: 0.5s ease-out 1s 1 slideInFrombottom;
     margin-left: 2.60417%;
   }
 
-  .block1 .cover1 {
-    position: relative;
-    z-index: 5;
-    height: 265px;
-    margin-top: -265px;
-  }
-
-  .block1 .projectlist {
-    position: relative;
-    z-index: 4;
+  .mainindexconteiner .projectlist {
     height: 265px;
   }
-
-  .block2 .cover2 {
-    position: relative;
-    z-index: 9;
-    height: 265px;
-    margin-top: -265px;
-  }
-
-  .block2 .projectlist {
-    position: relative;
-    z-index: 8;
-    height: 265px;
-  }
-
-  .block3 .cover3 {
-    position: relative;
-    z-index: 13;
-    width: 100%;
-    height: 265px;
-    margin-left: 0;
-  }
-
-  .block3 .projectlist {
-    position: relative;
-    z-index: 12;
-    width: 100%;
-    height: 265px;
-    margin-top: -265px;
-    margin-left: 0;
-  }
-
-  .block4 .cover4 {
-    position: relative;
-    z-index: 17;
-    height: 265px;
-    margin-top: -265px;
-  }
-
-  .block4 .projectlist {
-      position: relative;
-      z-index: 16;
-      height: 265px;
-    }
-
-  .block5 .cover5 {
-      position: relative;
-      z-index: 21;
-      width: 100%;
-      height: 265px;
-      margin-top: -265px;
-      margin-left: 0;
-    }
-
-  .block5 .projectlist {
-      position: relative;
-      z-index: 20;
-      height: 265px;
-      margin-left: 0;
-    }
-
-  .block6 .cover6 {
-      position: relative;
-      z-index: 25;
-      height: 265px;
-      margin-top: -265px;
-    }
-  .block6 .projectlist {
-      position: relative;
-      z-index: 24;
-      height: 265px;
-    }
-
-  .block7 .cover7 {
-      position: relative;
-      z-index: 29;
-      width: 100%;
-      height: 265px;
-      margin-top: -265px;
-      margin-left: 0;
-    }
-  .block7 .projectlist {
-      position: relative;
-      z-index: 28;
-      width: 100%;
-      height: 265px;
-      margin-left: 0;
-      background-size: cover;
-    }
-
-  .block8 .cover8 {
-      position: relative;
-      z-index: 33;
-      height: 265px;
-      margin-top: -265px;
-    }
-  .block8 .projectlist {
-      position: relative;
-      z-index: 32;
-      height: 265px;
-      margin-top: 1px;
-    }
-
-
 
   .mainindexconteiner .titlecontainer {
     width: 74.3801652892%;
@@ -1141,7 +1125,54 @@ animation: 0.5s ease-out 1s 1 slideInFrombottom;
     height: 67px;
   }
 
+  .mainindexconteiner .projectlist-1 {
+    width: 74.6556473829%;
+    margin-top: 100px;
+  }
 
+  .mainindexconteiner .projectlist-2 {
+    position: relative;
+    z-index: 5;
+    width: 49.173553719%;
+    margin-top: 15px;
+    margin-left: 0;
+  }
+
+  .mainindexconteiner .projectlist-3 {
+    position: relative;
+    z-index: 6;
+    width: 48.7603305785%;
+    margin-top: -265px;
+    margin-left: 51.09978%;
+  }
+
+  .mainindexconteiner .projectlist-5 {
+    width: 74.6556473829%;
+    margin-top: 15px;
+  }
+
+  .mainindexconteiner .projectlist-6 {
+    position: relative;
+    z-index: 9;
+    width: 49.173553719%;
+    margin-top: 15px;
+  }
+
+  .mainindexconteiner .projectlist-7 {
+    position: relative;
+    z-index: 10;
+    width: 48.7603305785%;
+    margin-top: -265px;
+    margin-left: 51.09978%;
+    background-size: cover;
+  }
+
+  .mainindexconteiner .projectlist-4,
+  .mainindexconteiner .projectlist-8 {
+    width: 74.3801652892%;
+    margin-top: 15px;
+    margin-left: 25.61553%;
+  }
 
   .menucont .menutext-1 {
     margin-top: 204px;
@@ -1178,57 +1209,191 @@ animation: 0.5s ease-out 1s 1 slideInFrombottom;
     z-index: 30;
   }
 
-
-
-.block1.prname1 {
+.mainindexconteiner .cover1 {
   position: relative;
-  z-index: 6;
-  margin-left: 3.99234%;
+  z-index: 12;
+  width: 74.6556473829%;
+  height: 265px;
+  margin-top: -265px;
 }
 
-.block2 .prname2 {
+.mainindexconteiner .cover2 {
   position: relative;
-  z-index: 10;
-  margin-left: 3.99234%;
+  z-index: 13;
+  width: 49.173553719%;
+  height: 265px;
+  margin-top: -265px;
 }
 
-.block3 .prname3 {
+.mainindexconteiner .cover3 {
   position: relative;
   z-index: 14;
+  width: 48.8980716253%;
+  height: 265px;
+  margin-top: -265px;
+  margin-left: 51.09978%;
+}
+
+.mainindexconteiner .cover4 {
+  position: relative;
+  z-index: 15;
+  width: 74.3801652892%;
+  height: 265px;
+  margin-top: -265px;
+  margin-left: 25.61553%;
+}
+
+.mainindexconteiner .cover5 {
+  position: relative;
+  z-index: 16;
+  width: 74.6556473829%;
+  height: 265px;
+  margin-top: -265px;
+}
+
+.mainindexconteiner .cover6 {
+  position: relative;
+  z-index: 17;
+  width: 49.173553719%;
+  height: 265px;
+  margin-top: -265px;
+  margin-left: 0;
+}
+
+.mainindexconteiner .cover7 {
+  position: relative;
+  z-index: 18;
+  width: 48.8980716253%;
+  height: 265px;
+  margin-top: -265px;
+  margin-left: 51.10193%;
+}
+
+.mainindexconteiner .cover8 {
+  position: relative;
+  z-index: 19;
+  width: 74.3801652892%;
+  height: 265px;
+  margin-top: -265px;
+  margin-left: 25.61553%;
+}
+
+.mainindexconteiner .prname1 {
+  position: relative;
+  z-index: 20;
+  margin-left: 3.99234%;
+}
+
+.mainindexconteiner .prname2 {
+  position: relative;
+  z-index: 21;
+  margin-left: 3.99234%;
+}
+
+.mainindexconteiner .prname3 {
+  position: relative;
+  z-index: 22;
   margin-left: 54.99957%;
 }
 
-.block4 .prname4 {
+.mainindexconteiner .prname4 {
   position: relative;
-  z-index: 18;
+  z-index: 23;
   margin-left: 30.67321%;
 }
 
-.block5 .prname5 {
+.mainindexconteiner .prname5 {
   position: relative;
-  z-index: 22;
+  z-index: 24;
   margin-left: 3.99234%;
 }
 
-.block6 .prname6 {
+.mainindexconteiner .prname6 {
+  position: relative;
+  z-index: 25;
+  margin-left: 3.99234%;
+}
+
+.mainindexconteiner .prname7 {
   position: relative;
   z-index: 26;
-  margin-left: 3.99234%;
-}
-
-.block7 .prname7 {
-  position: relative;
-  z-index: 30;
   margin-left: 54.95868%;
 }
 
-.block8 .prname8 {
+.mainindexconteiner .prname8 {
   position: relative;
-  z-index: 34;
+  z-index: 27;
   margin-left: 30.67321%;
 }
 
+.mainindexconteiner .block1 {
+  position: relative;
+  z-index: 12;
+  width: 74.6556473829%;
+  height: 265px;
+  margin-top: -265px;
+}
 
+.mainindexconteiner .block2 {
+  position: relative;
+  z-index: 13;
+  width: 49.173553719%;
+  height: 265px;
+  margin-top: -265px;
+}
+
+.mainindexconteiner .block3 {
+  position: relative;
+  z-index: 14;
+  width: 48.8980716253%;
+  height: 265px;
+  margin-top: -265px;
+  margin-left: 51.09978%;
+}
+
+.mainindexconteiner .block4 {
+  position: relative;
+  z-index: 15;
+  width: 74.3801652892%;
+  height: 265px;
+  margin-top: -265px;
+  margin-left: 25.61553%;
+}
+
+.mainindexconteiner .block5 {
+  position: relative;
+  z-index: 16;
+  width: 74.6556473829%;
+  height: 265px;
+  margin-top: -265px;
+}
+
+.mainindexconteiner .block6 {
+  position: relative;
+  z-index: 17;
+  width: 49.173553719%;
+  height: 265px;
+  margin-top: -265px;
+  margin-left: 0;
+}
+
+.mainindexconteiner .block7 {
+  position: relative;
+  z-index: 18;
+  width: 48.8980716253%;
+  height: 265px;
+  margin-top: -265px;
+  margin-left: 51.10193%;
+}
+
+.mainindexconteiner .block8 {
+  position: relative;
+  z-index: 19;
+  width: 74.3801652892%;
+  height: 265px;
+  margin-top: -265px;
+  margin-left: 25.61553%;
+}
 }
 
 @media(max-width: 600px) {
@@ -1244,7 +1409,9 @@ animation: 0.5s ease-out 1s 1 slideInFrombottom;
     margin-left: 3.33073%;
   }
 
-
+  .mainindexconteiner .projectlist {
+    height: 260px;
+  }
 
   .mainindexconteiner .titlecontainer {
     width: 74.4642857142%;
@@ -1279,113 +1446,50 @@ animation: 0.5s ease-out 1s 1 slideInFrombottom;
     font-size: 1.625em;
   }
 
-  .block1 .cover1 {
+  .mainindexconteiner .projectlist-1 {
+    width: 100%;
+    margin-top: 60px;
+  }
+
+  .mainindexconteiner .projectlist-2 {
     position: relative;
     z-index: 5;
-    height: 260px;
-    margin-top: -260px;
+    width: 48.9285714285%;
+    margin-top: 14px;
   }
 
-  .block1 .projectlist {
+  .mainindexconteiner .projectlist-3 {
     position: relative;
-    z-index: 4;
-    height: 260px;
+    z-index: 6;
+    width: 48.9285714285%;
+    margin-top: -260px;
+    margin-left: 51.07143%;
   }
 
-  .block2 .cover2 {
+  .mainindexconteiner .projectlist-5 {
+    width: 100%;
+    margin-top: 14px;
+  }
+
+  .mainindexconteiner .projectlist-6 {
     position: relative;
     z-index: 9;
-    height: 260px;
-    margin-top: -260px;
+    width: 48.9285714285%;
   }
 
-  .block2 .projectlist {
+  .mainindexconteiner .projectlist-7 {
     position: relative;
-    z-index: 8;
-    height: 260px;
+    z-index: 10;
+    width: 48.9285714285%;
+    margin-left: 51.06585%;
+    margin-top: -260px
   }
 
-  .block3 .cover3 {
-    position: relative;
-    z-index: 13;
-    height: 260px;
+  .mainindexconteiner .projectlist-4,
+  .mainindexconteiner .projectlist-8 {
+    width: 100%;
+    margin-left: 0;
   }
-
-  .block3 .projectlist {
-    position: relative;
-    z-index: 12;
-    height: 260px;
-    margin-top: -260px;
-  }
-
-  .block4 .cover4 {
-    position: relative;
-    z-index: 17;
-    height: 260px;
-    margin-top: -260px;
-  }
-
-  .block4 .projectlist {
-    position: relative;
-    z-index: 16;
-    height: 260px;
-  }
-
-  .block5 .cover5 {
-    position: relative;
-    z-index: 21;
-    height: 260px;
-    margin-top: -260px;
-  }
-
-  .block5 .projectlist {
-    position: relative;
-    z-index: 20;
-    height: 260px;
-  }
-
-  .block6 .cover6 {
-    position: relative;
-    z-index: 25;
-    height: 260px;
-    margin-top: -260px;
-  }
-
-  .block6 .projectlist {
-    position: relative;
-    z-index: 24;
-    height: 260px;
-  }
-
-  .block7 .cover7 {
-    position: relative;
-    z-index: 29;
-    height: 260px;
-    margin-top: -260px;
-  }
-
-  .block7 .projectlist {
-    position: relative;
-    z-index: 28;
-    width: 100.2343526721%;
-    height: 260px;
-    margin-left: -0.23395%;
-  }
-
-  .block8 .cover8 {
-    position: relative;
-    z-index: 33;
-    height: 260px;
-    margin-top: -260px;
-  }
-
-  .block8 .projectlist {
-    position: relative;
-    z-index: 32;
-    height: 260px;
-    margin-top: 0;
-  }
-
 
   .menucont .menutext-1 {
     margin-top: 188px;
@@ -1412,76 +1516,208 @@ animation: 0.5s ease-out 1s 1 slideInFrombottom;
     position: relative;
     z-index: 30;
   }
+  .mainindexconteiner .cover1 {
+      position: relative;
+      z-index: 12;
+      width: 100%;
+      height: 260px;
+      margin-top: -260px;
+    }
 
+    .mainindexconteiner .cover2 {
+      position: relative;
+      z-index: 13;
+      width: 49.1071428571%;
+      height: 260px;
+      margin-top: -260px;
+    }
 
-  .block1 .prname1 {
-    position: relative;
-    z-index: 6;
-    margin-left: 3.90904%;
-    font-size: 18px;
-    margin-top: -65px;
-  }
+    .mainindexconteiner .cover3 {
+      position: relative;
+      z-index: 14;
+      width: 48.9285714285%;
+      height: 260px;
+      margin-top: -260px;
+      margin-left: 51.07143%;
+    }
 
-  .block2 .prname2 {
-    position: relative;
-    z-index: 10;
-    margin-left: 3.90904%;
-    width: 160px;
-    font-size: 18px;
-    margin-top: -92px;
-  }
+    .mainindexconteiner .cover4 {
+      position: relative;
+      z-index: 15;
+      width: 99.8214285714%;
+      height: 260px;
+      margin-top: -260px;
+      margin-left: 0;
+    }
 
-  .block3 .prname3 {
-    position: relative;
-    z-index: 14;
-    width: 185px;
-    font-size: 18px;
-    margin-top: -92px;
-  }
+    .mainindexconteiner .cover5 {
+      position: relative;
+      z-index: 16;
+      width: 99.8214285714%;
+      height: 260px;
+      margin-top: -260px;
+    }
 
-  .block4 .prname4 {
-    position: relative;
-    z-index: 18;
-    margin-left: 3.90904%;
-    font-size: 18px;
-    margin-top: -65px;
-  }
+    .mainindexconteiner .cover6 {
+      position: relative;
+      z-index: 17;
+      width: 48.9285714285%;
+      height: 260px;
+      margin-top: -260px;
+    }
 
-  .block5 .prname5 {
-    position: relative;
-    z-index: 22;
-    margin-left: 3.99833%;
-    font-size: 18px;
-    margin-top: -65px;
-  }
+    .mainindexconteiner .cover7 {
+      position: relative;
+      z-index: 18;
+      width: 48.9285714285%;
+      height: 260px;
+      margin-top: -260px;
+      margin-left: 51.06585%;
+    }
 
-  .block6 .prname6 {
-    position: relative;
-    z-index: 26;
-    margin-top: -92px;
-    margin-left: 3.90904%;
-    font-size: 18px;
-  }
+    .mainindexconteiner .cover8 {
+      position: relative;
+      z-index: 19;
+      width: 99.8214285714%;
+      height: 260px;
+      margin-top: -260px;
+      margin-left: 0;
+    }
 
-  .block7 .prname7 {
-    position: relative;
-    clear: both;
-    z-index: 30;
-    width: 170px;;
-    margin-top: -92px;
-    margin-left: 54.99442%;
-    font-size: 18px;
-  }
+    .mainindexconteiner .prname1 {
+      position: relative;
+      z-index: 20;
+      margin-left: 3.90904%;
+      font-size: 18px;
+      margin-top: -65px;
+    }
 
-  .block8 .prname8 {
-    position: relative;
-    z-index: 33;
-    margin-left: 3.99833%;
-    font-size: 18px;
-    margin-top: -38px;
-  }
+    .mainindexconteiner .prname2 {
+      position: relative;
+      z-index: 21;
+      margin-left: 3.90904%;
+      width: 160px;
+      font-size: 18px;
+      margin-top: -92px;
+    }
 
+    .mainindexconteiner .prname3 {
+      position: relative;
+      z-index: 22;
+      width: 185px;
+      font-size: 18px;
+      margin-top: -92px;
+    }
 
+    .mainindexconteiner .prname4 {
+      position: relative;
+      z-index: 23;
+      margin-left: 3.90904%;
+      font-size: 18px;
+      margin-top: -65px;
+    }
+
+    .mainindexconteiner .prname5 {
+      position: relative;
+      z-index: 24;
+      margin-left: 3.99833%;
+      font-size: 18px;
+      margin-top: -65px;
+    }
+
+    .mainindexconteiner .prname6 {
+      position: relative;
+      z-index: 25;
+      margin-top: -92px;
+      margin-left: 3.90904%;
+      font-size: 18px;
+    }
+
+    .mainindexconteiner .prname7 {
+      position: relative;
+      clear: both;
+      z-index: 26;
+      width: 170px;;
+      margin-top: -92px;
+      margin-left: 54.99442%;
+      font-size: 18px;
+    }
+
+    .mainindexconteiner .prname8 {
+      position: relative;
+      z-index: 27;
+      margin-left: 3.99833%;
+      font-size: 18px;
+      margin-top: -38px;
+    }
+
+    .mainindexconteiner .block1 {
+        position: relative;
+        z-index: 12;
+        width: 100%;
+        height: 260px;
+        margin-top: -260px;
+      }
+
+      .mainindexconteiner .block2 {
+        position: relative;
+        z-index: 13;
+        width: 49.1071428571%;
+        height: 260px;
+        margin-top: -260px;
+      }
+
+      .mainindexconteiner .block3 {
+        position: relative;
+        z-index: 14;
+        width: 48.9285714285%;
+        height: 260px;
+        margin-top: -260px;
+        margin-left: 51.07143%;
+      }
+
+      .mainindexconteiner .block4 {
+        position: relative;
+        z-index: 15;
+        width: 99.8214285714%;
+        height: 260px;
+        margin-top: -260px;
+        margin-left: 0;
+      }
+
+      .mainindexconteiner .block5 {
+        position: relative;
+        z-index: 16;
+        width: 99.8214285714%;
+        height: 260px;
+        margin-top: -260px;
+      }
+
+      .mainindexconteiner .block6 {
+        position: relative;
+        z-index: 17;
+        width: 48.9285714285%;
+        height: 260px;
+        margin-top: -260px;
+      }
+
+      .mainindexconteiner .block7 {
+        position: relative;
+        z-index: 18;
+        width: 48.9285714285%;
+        height: 260px;
+        margin-top: -260px;
+        margin-left: 51.06585%;
+      }
+
+      .mainindexconteiner .block8 {
+        position: relative;
+        z-index: 19;
+        width: 99.8214285714%;
+        height: 260px;
+        margin-top: -260px;
+        margin-left: 0;
+      }
 }
 
 
@@ -1546,91 +1782,43 @@ animation: 0.5s ease-out 1s 1 slideInFrombottom;
     font-size: 1.25em;
   }
 
-  .block1 .cover1 {
+  .mainindexconteiner .projectlist-1 {
+    margin-top: 50px;
+  }
+
+  .mainindexconteiner .projectlist-2 {
     position: relative;
     z-index: 5;
+    width: 100%;
+    margin-top: 15px;
   }
 
-  .block1 .projectlist {
+  .mainindexconteiner .projectlist-3 {
     position: relative;
-    z-index: 4;
-  }
-
-  .block2 .cover2 {
-    position: relative;
-    z-index: 9;
-  }
-
-  .block2 .projectlist {
-    position: relative;
-    z-index: 8;
-  }
-
-  .block3 .cover3 {
-    position: relative;
-    z-index: 13;
-  }
-
-  .block3 .projectlist {
-    position: relative;
-    z-index: 12;
-  }
-
-  .block4 .cover4 {
-    position: relative;
-    z-index: 17;
-  }
-
-  .block4 .projectlist {
-    position: relative;
-    z-index: 16;
-  }
-
-  .block5 .cover5 {
-    position: relative;
-    z-index: 21;
-  }
-
-  .block5 .projectlist {
-    position: relative;
-    z-index: 20;
-  }
-
-  .block6 .cover6 {
-    position: relative;
-    z-index: 25;
-  }
-
-  .block6 .projectlist {
-    position: relative;
-    z-index: 24;
-  }
-
-  .block7 .cover7 {
-    position: relative;
-    z-index: 29;
-  }
-
-  .block7 .projectlist {
-    position: relative;
-    z-index: 28;
+    clear: both;
+    z-index: 6;
     width: 100%;
     margin-left: 0;
   }
 
-  .block8 .cover8 {
-    position: relative;
-    z-index: 33;
+  .mainindexconteiner .projectlist-5 {
+    margin-top: 15px;
   }
 
-  .block8 .projectlist {
+  .mainindexconteiner .projectlist-6 {
     position: relative;
-    z-index: 32;
+    z-index: 9;
+    width: 100%;
   }
 
-
-
-
+  .mainindexconteiner .projectlist-7 {
+    position: relative;
+    clear: both;
+    z-index: 10;
+    width: 100%;
+    margin-left: 0;
+    margin-top: 15px;
+  }
 
   .menucont .menutext-1 {
     margin-top: 168px;
@@ -1666,79 +1854,177 @@ animation: 0.5s ease-out 1s 1 slideInFrombottom;
     z-index: 30;
     margin-top: 100px;
   }
+  .mainindexconteiner .cover1 {
+      position: relative;
+      z-index: 12;
+    }
 
+    .mainindexconteiner .cover2 {
+      position: relative;
+      z-index: 13;
+      width: 100%;
+    }
 
-  .block1 .prname1 {
-    position: relative;
-    z-index: 6;
-    margin-top: -60px;
-    margin-left: 3.125%;
-    font-size: 16px;
-  }
+    .mainindexconteiner .cover3 {
+      position: relative;
+      z-index: 14;
+      width: 100%;
+      margin-top: 17px;
+      margin-left: 0;
+    }
 
-  .block2 .prname2 {
-    position: relative;
-    z-index: 10;
-    margin-top: -60px;
-    margin-left: 3.125%;
-    font-size: 16px;
-    width: 200px;
-  }
+    .mainindexconteiner .cover4 {
+      position: relative;
+      z-index: 15;
+      width: 100%;
+    }
 
-  .block3 .prname3 {
-    position: relative;
-    z-index: 14;
-    width: 250px;
-    margin-top: -60px;
-    margin-left: 3.125%;
-    font-size: 16px;
-  }
+    .mainindexconteiner .cover5 {
+      position: relative;
+      z-index: 16;
+      width: 100%;
+    }
 
-  .block4 .prname4 {
-    position: relative;
-    z-index: 18;
-    margin-top: -60px;
-    margin-left: 3.125%;
-    font-size: 16px;
-    width: 200px;
-  }
+    .mainindexconteiner .cover6 {
+      position: relative;
+      z-index: 17;
+      width: 100%;
+    }
 
-  .block5 .prname5 {
-    position: relative;
-    z-index: 22;
-    margin-top: -60px;
-    margin-left: 3.125%;
-    font-size: 16px;
-    width: 200px;
-  }
+    .mainindexconteiner .cover7 {
+      position: relative;
+      clear: both;
+      z-index: 18;
+      width: 100%;
+      margin-left: 0;
+    }
 
-  .block6 .prname6 {
-    position: relative;
-    z-index: 26;
-    margin-top: -60px;
-    margin-left: 3.125%;
-    font-size: 16px;
-  }
+    .mainindexconteiner .cover8 {
+      position: relative;
+      z-index: 19;
+      width: 100%;
+    }
 
-  .block7 .prname7 {
-    position: relative;
-    clear: none;
-    z-index: 30;
-    margin-top: -60px;
-    margin-left: 3.125%;
-    font-size: 16px;
-    width: 200px;
-  }
+    .mainindexconteiner .prname1 {
+      position: relative;
+      z-index: 20;
+      margin-top: -60px;
+      margin-left: 3.125%;
+      font-size: 16px;
+    }
 
-  .block8 .prname8 {
-    position: relative;
-    z-index: 34;
-    margin-top: -38px;
-    margin-left: 3.125%;
-    font-size: 16px;
-  }
+    .mainindexconteiner .prname2 {
+      position: relative;
+      z-index: 21;
+      margin-top: -60px;
+      margin-left: 3.125%;
+      font-size: 16px;
+      width: 200px;
+    }
 
+    .mainindexconteiner .prname3 {
+      position: relative;
+      z-index: 22;
+      width: 250px;
+      margin-top: -60px;
+      margin-left: 3.125%;
+      font-size: 16px;
+    }
 
+    .mainindexconteiner .prname4 {
+      position: relative;
+      z-index: 23;
+      margin-top: -60px;
+      margin-left: 3.125%;
+      font-size: 16px;
+      width: 200px;
+    }
+
+    .mainindexconteiner .prname5 {
+      position: relative;
+      z-index: 24;
+      margin-top: -60px;
+      margin-left: 3.125%;
+      font-size: 16px;
+      width: 200px;
+    }
+
+    .mainindexconteiner .prname6 {
+      position: relative;
+      z-index: 25;
+      margin-top: -60px;
+      margin-left: 3.125%;
+      font-size: 16px;
+    }
+
+    .mainindexconteiner .prname7 {
+      position: relative;
+      clear: none;
+      z-index: 26;
+      margin-top: -60px;
+      margin-left: 3.125%;
+      font-size: 16px;
+      width: 200px;
+    }
+
+    .mainindexconteiner .prname8 {
+      position: relative;
+      z-index: 27;
+      margin-top: -38px;
+      margin-left: 3.125%;
+      font-size: 16px;
+    }
+
+    .mainindexconteiner .block1 {
+        position: relative;
+        z-index: 12;
+      }
+
+    .mainindexconteiner .block2 {
+        position: relative;
+        z-index: 13;
+        width: 100%;
+      }
+
+    .mainindexconteiner .block3 {
+        position: relative;
+        z-index: 14;
+        width: 100%;
+        margin-top: 17px;
+        margin-left: 0;
+      }
+
+    .mainindexconteiner .block4 {
+        position: relative;
+        z-index: 15;
+        width: 100%;
+      }
+
+    .mainindexconteiner .block5 {
+        position: relative;
+        z-index: 16;
+        width: 100%;
+      }
+
+    .mainindexconteiner .block6 {
+        position: relative;
+        z-index: 17;
+        width: 100%;
+      }
+
+    .mainindexconteiner .block7 {
+        position: relative;
+        clear: both;
+        z-index: 18;
+        width: 100%;
+        margin-left: 0;
+      }
+
+    .mainindexconteiner .block8 {
+        position: relative;
+        z-index: 19;
+        width: 100%;
+      }
 }
 
 
@@ -1805,86 +2091,30 @@ animation: 0.5s ease-out 1s 1 slideInFrombottom;
     height: 71px;
   }
 
-  .block1 .cover1 {
+  .mainindexconteiner .projectlist-1 {
+    margin-top: 39px;
+  }
+
+  .mainindexconteiner .projectlist-2 {
     position: relative;
     z-index: 5;
   }
 
-  .block1 .projectlist {
+  .mainindexconteiner .projectlist-3 {
     position: relative;
-    z-index: 4;
+    z-index: 6;
+    margin-top: -260px;
   }
 
-  .block2 .cover2 {
+  .mainindexconteiner .projectlist-6 {
     position: relative;
     z-index: 9;
   }
 
-  .block2 .projectlist {
+  .mainindexconteiner .projectlist-7 {
     position: relative;
-    z-index: 8;
+    z-index: 10;
   }
-
-  .block3 .cover3 {
-    position: relative;
-    z-index: 13;
-  }
-
-  .block3 .projectlist {
-    position: relative;
-    z-index: 12;
-  }
-
-  .block4 .cover4 {
-    position: relative;
-    z-index: 17;
-  }
-
-  .block4 .projectlist {
-    position: relative;
-    z-index: 16;
-  }
-
-  .block5 .cover5 {
-    position: relative;
-    z-index: 21;
-  }
-
-  .block5 .projectlist {
-    position: relative;
-    z-index: 20;
-  }
-
-  .block6 .cover6 {
-    position: relative;
-    z-index: 25;
-  }
-
-  .block6 .projectlist {
-    position: relative;
-    z-index: 24;
-  }
-
-  .block7 .cover7 {
-    position: relative;
-    z-index: 29;
-  }
-
-  .block7 .projectlist {
-    position: relative;
-    z-index: 28;
-  }
-
-  .block8 .cover8 {
-    position: relative;
-    z-index: 33;
-  }
-
-  .block8 .projectlist {
-    position: relative;
-    z-index: 32;
-  }
-
 
   .menucont .menutext-1 {
     margin-top: 156px;
@@ -1923,55 +2153,133 @@ animation: 0.5s ease-out 1s 1 slideInFrombottom;
     z-index: 30;
     width: 108.69140625%;
   }
-
-
-  .block1 .prname1 {
+  .mainindexconteiner .cover1 {
     position: relative;
-    z-index: 6;
-    margin-left: 6.25%;
+    z-index: 12;
   }
 
-  .block2 .prname2 {
+  .mainindexconteiner .cover2 {
     position: relative;
-    z-index: 10;
-    margin-left: 6.25%;
+    z-index: 13;
   }
 
-  .block3 .prname3 {
+  .mainindexconteiner .cover3 {
     position: relative;
     z-index: 14;
-    margin-left: 6.25%;
+    margin-top: 15px;
   }
 
-  .block4 .prname4 {
+  .mainindexconteiner .cover4 {
+    position: relative;
+    z-index: 15;
+  }
+
+  .mainindexconteiner .cover5 {
+    position: relative;
+    z-index: 16;
+  }
+
+  .mainindexconteiner .cover6 {
+    position: relative;
+    z-index: 17;
+  }
+
+  .mainindexconteiner .cover7 {
     position: relative;
     z-index: 18;
+  }
+
+  .mainindexconteiner .cover8 {
+    position: relative;
+    z-index: 19;
+  }
+
+  .mainindexconteiner .prname1 {
+    position: relative;
+    z-index: 20;
     margin-left: 6.25%;
   }
 
-  .block5 .prname5 {
+  .mainindexconteiner .prname2 {
+    position: relative;
+    z-index: 21;
+    margin-left: 6.25%;
+  }
+
+  .mainindexconteiner .prname3 {
     position: relative;
     z-index: 22;
     margin-left: 6.25%;
   }
 
-  .block6 .prname6 {
+  .mainindexconteiner .prname4 {
+    position: relative;
+    z-index: 23;
+    margin-left: 6.25%;
+  }
+
+  .mainindexconteiner .prname5 {
+    position: relative;
+    z-index: 24;
+    margin-left: 6.25%;
+  }
+
+  .mainindexconteiner .prname6 {
+    position: relative;
+    z-index: 25;
+    margin-left: 6.25%;
+  }
+
+  .mainindexconteiner .prname7 {
     position: relative;
     z-index: 26;
     margin-left: 6.25%;
   }
 
-  .block7 .prname7 {
+  .mainindexconteiner .prname8 {
     position: relative;
-    z-index: 30;
+    z-index: 27;
     margin-left: 6.25%;
   }
 
-  .block8 .prname8 {
+  .mainindexconteiner .block1 {
     position: relative;
-    z-index: 34;
-    margin-left: 6.25%;
+    z-index: 12;
   }
 
+  .mainindexconteiner .block2 {
+    position: relative;
+    z-index: 13;
+  }
 
+  .mainindexconteiner .block3 {
+    position: relative;
+    z-index: 14;
+    margin-top: 15px;
+  }
+
+  .mainindexconteiner .block4 {
+    position: relative;
+    z-index: 15;
+  }
+
+  .mainindexconteiner .block5 {
+    position: relative;
+    z-index: 16;
+  }
+
+  .mainindexconteiner .block6 {
+    position: relative;
+    z-index: 17;
+  }
+
+  .mainindexconteiner .block7 {
+    position: relative;
+    z-index: 18;
+  }
+
+  .mainindexconteiner .block8 {
+    position: relative;
+    z-index: 19;
+  }
 }
