@@ -95,7 +95,7 @@ body {
   z-index: 23;
   width: 79.4809181608%;
   height: 345px;
-  margin: 20px 0 0 10.25954%;
+  margin: -345px 0 0 10.25954%;
   opacity: 0;
   cursor: pointer;
 }
@@ -750,6 +750,7 @@ animation: 0.5s ease-out 1s 1 slideInFrombottom;
     z-index: 8;
     width: 48.8435374149%;
     height: 300px;
+    margin-left: 0;
   }
 
   .mainindexconteiner .projectlist-3 {
@@ -771,7 +772,7 @@ animation: 0.5s ease-out 1s 1 slideInFrombottom;
     z-index: 20;
     width: 87.3469387755%;
     height: 300px;
-    margin-top: -300px;
+    margin-top: 20px;
     margin-left: 0;
   }
 
@@ -780,6 +781,7 @@ animation: 0.5s ease-out 1s 1 slideInFrombottom;
     z-index: 24;
     width: 48.7074829931%;
     height: 300px;
+    margin-left: 0;
   }
 
   .mainindexconteiner .projectlist-7 {
@@ -794,7 +796,7 @@ animation: 0.5s ease-out 1s 1 slideInFrombottom;
     z-index: 32;
     width: 74.4217687074%;
     height: 300px;
-    margin-top: -300px;
+    margin-top: 20px;
     margin-left: 25.57611%;
   }
 
@@ -1017,7 +1019,7 @@ animation: 0.5s ease-out 1s 1 slideInFrombottom;
 
 .mainindexconteiner .block7 {
   position: relative;
-  z-index: 18;
+  z-index: 29;
   width: 48.8435374149%;
   height: 300px;
   margin-top: -300px;
@@ -1130,13 +1132,13 @@ animation: 0.5s ease-out 1s 1 slideInFrombottom;
     z-index: 16;
     width: 74.3801652892%;
     margin-left: 25.61553%;
+    margin-top: 15px;
   }
 
   .mainindexconteiner .projectlist-5 {
     z-index: 15;
     width: 74.6556473829%;
     margin-top: 15px;
-    margin-top: -265px;
     margin-left: 0;
   }
 
@@ -1145,6 +1147,7 @@ animation: 0.5s ease-out 1s 1 slideInFrombottom;
     z-index: 24;
     width: 49.173553719%;
     margin-top: 15px;
+    margin-left: 0;
   }
 
   .mainindexconteiner .projectlist-7 {
@@ -1436,7 +1439,7 @@ animation: 0.5s ease-out 1s 1 slideInFrombottom;
 
   .mainindexconteiner .projectlist-3 {
     position: relative;
-    z-index: 12
+    z-index: 12;
     width: 48.9285714285%;
     margin-top: -260px;
     margin-left: 2.03125%;
@@ -1453,7 +1456,7 @@ animation: 0.5s ease-out 1s 1 slideInFrombottom;
   .mainindexconteiner .projectlist-5 {
     width: 100%;
     z-index: 20;
-    margin-top: -260px;
+    margin-top: 15px;
   }
 
   .mainindexconteiner .projectlist-6 {
@@ -1657,7 +1660,7 @@ animation: 0.5s ease-out 1s 1 slideInFrombottom;
         z-index: 23;
         width: 100%;
         height: 260px;
-        margin-top: 15px;
+        margin-top: -260px;
       }
 
       .mainindexconteiner .block6 {
@@ -1681,7 +1684,7 @@ animation: 0.5s ease-out 1s 1 slideInFrombottom;
         z-index: 35;
         width: 100%;
         height: 260px;
-        margin-top:15px;
+        margin-top: -260px;
         margin-left: 0;
       }
 }
