@@ -232,7 +232,8 @@ body {
 }
 
 .text-7,
-.text-8 {
+.text-8,
+.text-11 {
   clear: both;
   width: 98.9130434782%;
   margin: 12px 0 0 0.52766%;
@@ -365,7 +366,8 @@ body {
 
   .container .text-6,
   .container .text-7,
-  .container .text-8 {
+  .container .text-8,
+  .container .text-11 {
     width: 49.701812977%;
     margin-left: 0.38195%;
   }
@@ -505,7 +507,8 @@ body {
   }
 
   .container .text-7,
-  .container .text-8 {
+  .container .text-8,
+  .container .text-11 {
     width: 49.5006443298%;
     margin-left: 0.46322%;
   }
@@ -620,7 +623,8 @@ body {
 
   .container .text-6,
   .container .text-7,
-  .container .text-8 {
+  .container .text-8,
+  .container .text-11 {
     width: 49.5644358407%;
     margin-left: 0.06501%;
   }
@@ -755,7 +759,8 @@ body {
 
   .container .text-6,
   .container .text-7,
-  .container .text-8 {
+  .container .text-8,
+  .container .text-11 {
     width: 49.6296965317%;
     margin-left: -0.03132%;
   }
@@ -880,7 +885,8 @@ body {
 
   .container .text-6,
   .container .text-7,
-  .container .text-8 {
+  .container .text-8,
+  .container .text-11 {
     width: 48.4902871621%;
     margin-left: 0.46875%;
   }

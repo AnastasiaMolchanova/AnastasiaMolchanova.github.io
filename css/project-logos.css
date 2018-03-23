@@ -900,38 +900,38 @@ body {
   }
 
   .element-2 {
-    width: 100.4166666666%;
+    width: 100%;
   }
 
   .mainprojectcontainer .element-10,
   .mainprojectcontainer .element-6,
   .mainprojectcontainer .element-9 {
     height: 250px;
-    margin-left: -0.17889%;
+    margin-left: 0;
     background-size: auto 200%;
   }
 
   .mainprojectcontainer .element-11 {
     position: relative;
     z-index: 14;
-    width: 100.1788908765%;
-    margin-left: -0.17889%;
+    width: 100%;
+    margin-left: 0;
   }
 
   .mainprojectcontainer .element-12 {
     position: relative;
     clear: both;
     z-index: 15;
-    width: 100.1788908765%;
+    width: 100%;
     margin-top: 20px;
-    margin-left: -0.17889%;
+    margin-left: 0;
   }
 
   .mainprojectcontainer .element-13 {
     position: relative;
     z-index: 16;
-    width: 100.1788908765%;
-    margin-left: -0.17889%;
+    width: 100%;
+    margin-left: 0;
   }
 
   .mainprojectcontainer .element-14 {
@@ -939,14 +939,14 @@ body {
     clear: both;
     z-index: 17;
     width: 100%;
-    margin-left: -0.08945%;
+    margin-left: 0;
   }
 
   .mainprojectcontainer .element-15 {
     position: relative;
     z-index: 18;
-    width: 100.1788908765%;
-    margin-left: -0.17889%;
+    width: 100%;
+    margin-left: 0;
   }
 
   .mainprojectcontainer .element-16 {
@@ -954,7 +954,7 @@ body {
     clear: both;
     z-index: 19;
     width: 100%;
-    margin-left: -0.08945%;
+    margin-left: 0;
   }
 
   .mainprojectcontainer .element-4 {
@@ -964,9 +964,8 @@ body {
   }
 
   .mainprojectcontainer .element-5 {
-    width: 100.1788908765%;
+    width: 100%;
     height: 250px;
-    margin-left: -0.17889%;
   }
 
   .mainprojectcontainer .element-7,
@@ -1106,17 +1105,17 @@ body {
   .mainprojectcontainer .element-12 {
     position: relative;
     z-index: 15;
-    width: 99.7916666666%;
+    width: 100%;
     margin-top: 15px;
-    margin-left: 0.20508%;
+    margin-left: 0;
   }
 
   .mainprojectcontainer .element-13 {
     position: relative;
     z-index: 16;
-    width: 99.7916666666%;
+    width: 100%;
     margin-top: 15px;
-    margin-left: 0.20508%;
+    margin-left: 0;
   }
 
   .mainprojectcontainer .element-14 {
@@ -1130,10 +1129,10 @@ body {
   .mainprojectcontainer .element-15 {
     position: relative;
     z-index: 18;
-    width: 99.7916666666%;
+    width: 100%;
     height: 250px;
     margin-top: 15px;
-    margin-left: 0.20508%;
+    margin-left: 0;
   }
 
   .mainprojectcontainer .element-16 {
@@ -1146,9 +1145,8 @@ body {
 
   .mainprojectcontainer .element-4,
   .mainprojectcontainer .element-5 {
-    width: 106.6666666666%;
+    width: 100%;
     height: 200px;
-    margin-left: -3.32357%;
   }
 
   .mainprojectcontainer .element-6 {
