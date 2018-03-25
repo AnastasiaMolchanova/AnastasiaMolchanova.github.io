@@ -48,7 +48,7 @@ body {
   width: 79.4809181608%;
   height: 345px;
   margin: -345px 0 0 10.28745%;
-  opacity: 0;
+  opacity: 1;
   cursor: pointer;
 
 }
@@ -61,7 +61,7 @@ body {
   width: 38.512523547%;
   height: 345px;
   margin: -345px 0 0 10.28745%;
-  opacity: 0;
+  opacity: 1;
   cursor: pointer;
 }
 
@@ -72,7 +72,7 @@ body {
   width: 48.7825298262%;
   height: 345px;
   margin: -345px 0 0 51.20526%;
-  opacity: 0;
+  opacity: 1;
   cursor: pointer;
 }
 
@@ -84,7 +84,7 @@ body {
   width: 69.3225423847%;
   height: 345px;
   margin: -345px 0 0 30.67746%;
-  opacity: 0;
+  opacity: 1;
   cursor: pointer;
 }
 
@@ -96,7 +96,7 @@ body {
   width: 79.4809181608%;
   height: 345px;
   margin: -345px 0 0 10.25954%;
-  opacity: 0;
+  opacity: 1;
   cursor: pointer;
 }
 
@@ -108,7 +108,7 @@ body {
   width: 38.4706621084%;
   height: 345px;
   margin: -345px 0 0 10.28745%;
-  opacity: 0;
+  opacity: 1;
   cursor: pointer;
 }
 
@@ -119,7 +119,7 @@ body {
   width: 48.7825298262%;
   height: 345px;
   margin: -345px 0 0 51.21747%;
-  opacity: 0;
+  opacity: 1;
   cursor: pointer;
 }
 
@@ -131,7 +131,7 @@ body {
   width: 69.3225423847%;
   height: 345px;
   margin: -345px 0 0 30.67746%;
-  opacity: 0;
+  opacity: 1;
   cursor: pointer;
 }
 
@@ -337,15 +337,15 @@ body {
   cursor: pointer;
 }
 
-.block1:hover,
-.block2:hover,
-.block3:hover,
-.block4:hover,
-.block5:hover,
-.block6:hover,
-.block7:hover,
-.block8:hover {
-opacity: 1;
+.block1:not(:hover),
+.block2:not(:hover),
+.block3:not(:hover),
+.block4:not(:hover),
+.block5:not(:hover),
+.block6:not(:hover),
+.block7:not(:hover),
+.block8:not(:hover) {
+opacity: 0;
 transition: ease-out 0.5s;
 }
 
