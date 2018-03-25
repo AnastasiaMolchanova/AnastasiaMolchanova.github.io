@@ -50,7 +50,7 @@ body {
   margin: -345px 0 0 10.28745%;
   opacity: 1;
   cursor: pointer;
-
+  transition: ease-out 0.5s;
 }
 
 .block2 {
@@ -63,6 +63,7 @@ body {
   margin: -345px 0 0 10.28745%;
   opacity: 1;
   cursor: pointer;
+  transition: ease-out 0.5s;
 }
 
 .block3 {
@@ -74,6 +75,7 @@ body {
   margin: -345px 0 0 51.20526%;
   opacity: 1;
   cursor: pointer;
+  transition: ease-out 0.5s;
 }
 
 .block4 {
@@ -86,6 +88,7 @@ body {
   margin: -345px 0 0 30.67746%;
   opacity: 1;
   cursor: pointer;
+  transition: ease-out 0.5s;
 }
 
 .block5 {
@@ -98,6 +101,7 @@ body {
   margin: -345px 0 0 10.25954%;
   opacity: 1;
   cursor: pointer;
+  transition: ease-out 0.5s;
 }
 
 .block6 {
@@ -110,6 +114,7 @@ body {
   margin: -345px 0 0 10.28745%;
   opacity: 1;
   cursor: pointer;
+  transition: ease-out 0.5s;
 }
 
 .block7 {
@@ -121,6 +126,7 @@ body {
   margin: -345px 0 0 51.21747%;
   opacity: 1;
   cursor: pointer;
+  transition: ease-out 0.5s;
 }
 
 .block8 {
@@ -133,6 +139,7 @@ body {
   margin: -345px 0 0 30.67746%;
   opacity: 1;
   cursor: pointer;
+  transition: ease-out 0.5s;
 }
 
 .cover1 {
@@ -346,7 +353,7 @@ body {
 .block7:not(:hover),
 .block8:not(:hover) {
 opacity: 0;
-transition: ease-out 0.5s;
+
 }
 
 .langtext {
